@@ -17,6 +17,10 @@ fetch("anime.json")
         img.loading = "lazy";
         img.className = "poster";
 
+        img.onload = () => {
+            img.classList.add("loaded");
+        };
+
         link.appendChild(img);
 
         wall.appendChild(link);

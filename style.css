@@ -22,20 +22,26 @@ h1{
 }
 
 #wall{
-    column-count:8;
-    column-gap:10px;
-    padding:10px;
+    column-count:6;
+    column-gap:12px;
+    padding:12px;
 }
 
 .poster{
     width:100%;
     margin-bottom:10px;
-    border-radius:8px;
-    transition:.3s;
+    border-radius:12px;
+    transition:.25s;
+    opacity:0;
+    transition:opacity .4s ease, transform .25s ease;
 }
 
 .poster:hover{
-    transform:scale(1.05);
+    transform:scale(1.03);
+}
+
+.poster.loaded{
+    opacity:1;
 }
 
 @media(max-width:1200px){

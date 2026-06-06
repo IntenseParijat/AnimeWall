@@ -1,0 +1,40 @@
+body{
+    margin:0;
+    background:#000;
+    color:white;
+    font-family:Arial,sans-serif;
+}
+
+h1{
+    text-align:center;
+    padding:20px;
+}
+
+#wall{
+    column-count:8;
+    column-gap:10px;
+    padding:10px;
+}
+
+.poster{
+    width:100%;
+    margin-bottom:10px;
+    border-radius:8px;
+    transition:.3s;
+}
+
+.poster:hover{
+    transform:scale(1.05);
+}
+
+@media(max-width:1200px){
+    #wall{column-count:6;}
+}
+
+@media(max-width:800px){
+    #wall{column-count:4;}
+}
+
+@media(max-width:500px){
+    #wall{column-count:2;}
+}

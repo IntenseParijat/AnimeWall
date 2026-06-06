@@ -6,21 +6,21 @@ fetch("anime.json")
 
     data.forEach(anime => {
 
-        const a = document.createElement("a");
+        const link = document.createElement("a");
 
-        a.href =
-            `https://myanimelist.net/anime/${anime.id}`;
-
-        a.target = "_blank";
+        link.href = anime.url;
+        link.target = "_blank";
 
         const img = document.createElement("img");
 
         img.src = anime.image;
-        img.className = "poster";
         img.loading = "lazy";
+        img.className = "poster";
 
-        a.appendChild(img);
+        link.appendChild(img);
 
-        wall.appendChild(a);
+        wall.appendChild(link);
+
     });
+
 });

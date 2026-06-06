@@ -1,3 +1,10 @@
+@font-face {
+    font-family: 'Birmingham Signature';
+    src: url('https://cdn.jsdelivr.net/gh/IntenseParijat/cdn@bf6860aaceea2763804b9e3f81f209c46d4e40ee/fonts/Birmingham%20Signature.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
 body{
     margin:0;
     background:#000;
@@ -6,7 +13,11 @@ body{
 }
 
 h1{
-    text-align:center;
+    font-family: 'Birmingham Signature', cursive;
+    font-size: 4rem;
+    text-align: center;
+    margin: 30px 0;
+    font-weight: normal;
     padding:20px;
 }
 

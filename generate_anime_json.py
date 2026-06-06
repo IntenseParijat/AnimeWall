@@ -39,6 +39,7 @@ for status in statuses:
         seen.add(mal_id)
 
         image = anime.get("anime_image_path", "")
+        image = image.replace("/r/192x272", "")
 
         all_anime.append({
             "id": mal_id,

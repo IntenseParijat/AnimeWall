@@ -24,42 +24,10 @@
     "status": 1
   },
   {
-    "id": 61687,
-    "title": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.",
-    "image": "https://cdn.myanimelist.net/images/anime/1769/153376.jpg?s=240c0269d96cc3ee9f8072fd43bb982f",
-    "url": "https://myanimelist.net/anime/61687",
-    "score": 7,
-    "status": 1
-  },
-  {
-    "id": 62342,
-    "title": "Maid-san wa Taberu dake",
-    "image": "https://cdn.myanimelist.net/images/anime/1175/156007.jpg?s=efb878eddbb9d60bcd536e2e29a21457",
-    "url": "https://myanimelist.net/anime/62342",
-    "score": 0,
-    "status": 1
-  },
-  {
     "id": 60310,
     "title": "Mairimashita! Iruma-kun 4th Season",
     "image": "https://cdn.myanimelist.net/images/anime/1434/154048.jpg?s=3f2076338122629a90255d4ae5a43d23",
     "url": "https://myanimelist.net/anime/60310",
-    "score": 8,
-    "status": 1
-  },
-  {
-    "id": 62893,
-    "title": "Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken",
-    "image": "https://cdn.myanimelist.net/images/anime/1045/157132.jpg?s=2acf4ee0c1d586b46da5cd6956f5ee33",
-    "url": "https://myanimelist.net/anime/62893",
-    "score": 7,
-    "status": 1
-  },
-  {
-    "id": 56876,
-    "title": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2",
-    "image": "https://cdn.myanimelist.net/images/anime/1989/154843.jpg?s=621829444fa7285207f295ba118da88c",
-    "url": "https://myanimelist.net/anime/56876",
     "score": 8,
     "status": 1
   },
@@ -76,7 +44,7 @@
     "title": "Snowball Earth",
     "image": "https://cdn.myanimelist.net/images/anime/1786/156390.jpg?s=c80cea07af9b029a87cc654b6fdf0bdb",
     "url": "https://myanimelist.net/anime/62068",
-    "score": 6,
+    "score": 7,
     "status": 1
   },
   {
@@ -1144,6 +1112,14 @@
     "status": 2
   },
   {
+    "id": 61943,
+    "title": "Haibara-kun no Tsuyokute Seishun New Game",
+    "image": "https://cdn.myanimelist.net/images/anime/1401/156048.jpg?s=5f9e50b4aac4c7b30aa571a86f91d663",
+    "url": "https://myanimelist.net/anime/61943",
+    "score": 7,
+    "status": 2
+  },
+  {
     "id": 35889,
     "title": "Hakata Tonkotsu Ramens",
     "image": "https://cdn.myanimelist.net/images/anime/1718/91097.jpg?s=6e9772220f9b11a6bcca828ca77c109f",
@@ -1632,6 +1608,14 @@
     "status": 2
   },
   {
+    "id": 61687,
+    "title": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.",
+    "image": "https://cdn.myanimelist.net/images/anime/1769/153376.jpg?s=240c0269d96cc3ee9f8072fd43bb982f",
+    "url": "https://myanimelist.net/anime/61687",
+    "score": 8,
+    "status": 2
+  },
+  {
     "id": 52969,
     "title": "Jitsu wa Ore, Saikyou deshita?",
     "image": "https://cdn.myanimelist.net/images/anime/1153/154175.jpg?s=0778eec4fecb9d13db5c94a41d44edc8",
@@ -1800,6 +1784,14 @@
     "status": 2
   },
   {
+    "id": 62050,
+    "title": "Kami no Niwatsuki Kusunoki-tei",
+    "image": "https://cdn.myanimelist.net/images/anime/1974/156105.jpg?s=2473b5d1058ace76c0351bfbc1d9cdbd",
+    "url": "https://myanimelist.net/anime/62050",
+    "score": 7,
+    "status": 2
+  },
+  {
     "id": 50869,
     "title": "Kami wa Game ni Ueteiru.",
     "image": "https://cdn.myanimelist.net/images/anime/1578/141782.jpg?s=a5b91ea8d0fd123151900e6bcde3a047",
@@ -1845,6 +1837,14 @@
     "image": "https://cdn.myanimelist.net/images/anime/1794/135148.jpg?s=9a5d731c43738e92ef14e5b4d6943562",
     "url": "https://myanimelist.net/anime/51693",
     "score": 7,
+    "status": 2
+  },
+  {
+    "id": 61501,
+    "title": "Kanan-sama wa Akumade Choroi",
+    "image": "https://cdn.myanimelist.net/images/anime/1681/154996.jpg?s=c69adf4d88204e5b00bdcb7a543f7de6",
+    "url": "https://myanimelist.net/anime/61501",
+    "score": 8,
     "status": 2
   },
   {
@@ -2464,38 +2464,6 @@
     "status": 2
   },
   {
-    "id": 56449,
-    "title": "Madougushi Dahliya wa Utsumukanai",
-    "image": "https://cdn.myanimelist.net/images/anime/1572/144060.jpg?s=2171ef491b69cc6f7c0960b417fb8ea0",
-    "url": "https://myanimelist.net/anime/56449",
-    "score": 7,
-    "status": 2
-  },
-  {
-    "id": 59265,
-    "title": "Magic Maker: Isekai Mahou no Tsukurikata",
-    "image": "https://cdn.myanimelist.net/images/anime/1802/146725.jpg?s=97c235ec4bffb3bc3169e96fbb709391",
-    "url": "https://myanimelist.net/anime/59265",
-    "score": 7,
-    "status": 2
-  },
-  {
-    "id": 19769,
-    "title": "Mahou Sensou",
-    "image": "https://cdn.myanimelist.net/images/anime/3/58103.jpg?s=2b95b1d0ceee3458d013ac9f43fe3d98",
-    "url": "https://myanimelist.net/anime/19769",
-    "score": 7,
-    "status": 2
-  },
-  {
-    "id": 20785,
-    "title": "Mahouka Koukou no Rettousei",
-    "image": "https://cdn.myanimelist.net/images/anime/11/61039.jpg?s=25b3c93a7a0422ccff8ae38166733ae8",
-    "url": "https://myanimelist.net/anime/20785",
-    "score": 7,
-    "status": 2
-  },
-  {
     "id": 54857,
     "title": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
     "image": "https://cdn.myanimelist.net/images/anime/1706/144725.jpg?s=df372c1c2a6cde4f842370b613bd8743",
@@ -2888,6 +2856,14 @@
     "status": 6
   },
   {
+    "id": 64441,
+    "title": "Kanan-sama wa Akumade Choroi 2nd Season",
+    "image": "https://cdn.myanimelist.net/images/anime/1822/158580.jpg?s=7cb943beff523049eca96ab040645c97",
+    "url": "https://myanimelist.net/anime/64441",
+    "score": 0,
+    "status": 6
+  },
+  {
     "id": 57612,
     "title": "Kikansha no Mahou wa Tokubetsu desu 2nd Season",
     "image": "https://cdn.myanimelist.net/images/anime/1137/158402.jpg?s=919cc7f791248935c4a812e5d6924704",
@@ -3228,14 +3204,6 @@
     "title": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san Season 2",
     "image": "https://cdn.myanimelist.net/images/anime/1711/156333.jpg?s=cec108e2b8f276cf82eda091cd0bcace",
     "url": "https://myanimelist.net/anime/59873",
-    "score": 0,
-    "status": 6
-  },
-  {
-    "id": 59983,
-    "title": "Tsue to Tsurugi no Wistoria Season 2",
-    "image": "https://cdn.myanimelist.net/images/anime/1190/155788.jpg?s=b79db1852eddde1a4361ad37feb470b1",
-    "url": "https://myanimelist.net/anime/59983",
     "score": 0,
     "status": 6
   },

@@ -1472,6 +1472,14 @@
     "status": 2
   },
   {
+    "id": 62146,
+    "title": "Isekai Nonbiri Nouka 2",
+    "image": "https://cdn.myanimelist.net/images/anime/1656/156369.jpg?s=f6b779336fe10ffbb5ef3368953fbf0b",
+    "url": "https://myanimelist.net/anime/62146",
+    "score": 8,
+    "status": 2
+  },
+  {
     "id": 52367,
     "title": "Isekai Shikkaku",
     "image": "https://cdn.myanimelist.net/images/anime/1252/143457.jpg?s=8326298b07b01a06f374bb7ea517e752",
@@ -2464,14 +2472,6 @@
     "status": 2
   },
   {
-    "id": 24455,
-    "title": "Madan no Ou to Vanadis",
-    "image": "https://cdn.myanimelist.net/images/anime/3/64911.jpg?s=3158e34799e0c2bbd19b7a6882690d5e",
-    "url": "https://myanimelist.net/anime/24455",
-    "score": 8,
-    "status": 2
-  },
-  {
     "id": 54857,
     "title": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
     "image": "https://cdn.myanimelist.net/images/anime/1706/144725.jpg?s=df372c1c2a6cde4f842370b613bd8743",
@@ -2744,6 +2744,14 @@
     "status": 6
   },
   {
+    "id": 1535,
+    "title": "Death Note",
+    "image": "https://cdn.myanimelist.net/images/anime/1079/138100.jpg?s=35ce21706ada158e33c5d9165eac06ab",
+    "url": "https://myanimelist.net/anime/1535",
+    "score": 0,
+    "status": 6
+  },
+  {
     "id": 59068,
     "title": "Dungeon Meshi 2nd Season",
     "image": "https://cdn.myanimelist.net/images/anime/1796/143572.jpg?s=9ccf5a8a6e7dd4c1a2c72af5fc81e33e",
@@ -2832,14 +2840,6 @@
     "status": 6
   },
   {
-    "id": 62146,
-    "title": "Isekai Nonbiri Nouka 2",
-    "image": "https://cdn.myanimelist.net/images/anime/1656/156369.jpg?s=f6b779336fe10ffbb5ef3368953fbf0b",
-    "url": "https://myanimelist.net/anime/62146",
-    "score": 0,
-    "status": 6
-  },
-  {
     "id": 63254,
     "title": "Isshun de Chiryou shiteita noni Yakutatazu to Tsuihou sareta Tensai Chiyushi, Yami Healer toshite Tanoshiku Ikiru 2nd Season",
     "image": "https://cdn.myanimelist.net/images/anime/1619/154846.jpg?s=20099399d674d31a8c51753a7faf6170",
@@ -2924,6 +2924,14 @@
     "title": "Kobayashi-san Chi no Maid Dragon: Samishigariya no Ryuu",
     "image": "https://cdn.myanimelist.net/images/anime/1134/148744.jpg?s=4565dc4cc4d1db9a031fb8c6c67b4ad9",
     "url": "https://myanimelist.net/anime/59897",
+    "score": 0,
+    "status": 6
+  },
+  {
+    "id": 48643,
+    "title": "Koi wa Sekai Seifuku no Ato de",
+    "image": "https://cdn.myanimelist.net/images/anime/1347/120593.jpg?s=b2067acbf3f932fcdcccb84e696198c3",
+    "url": "https://myanimelist.net/anime/48643",
     "score": 0,
     "status": 6
   },
@@ -3220,6 +3228,22 @@
     "title": "Tsuki ga Michibiku Isekai Douchuu 3rd Season",
     "image": "https://cdn.myanimelist.net/images/anime/1055/143718.jpg?s=26046f47ccc26947f0babcd166e1e513",
     "url": "https://myanimelist.net/anime/59139",
+    "score": 0,
+    "status": 6
+  },
+  {
+    "id": 34902,
+    "title": "Tsurezure Children",
+    "image": "https://cdn.myanimelist.net/images/anime/12/86676.jpg?s=bea0921f7e1b65a8f576e641e72d02c9",
+    "url": "https://myanimelist.net/anime/34902",
+    "score": 0,
+    "status": 6
+  },
+  {
+    "id": 37521,
+    "title": "Vinland Saga",
+    "image": "https://cdn.myanimelist.net/images/anime/1500/103005.jpg?s=dda752dd4d154818e895e45bb098e1e6",
+    "url": "https://myanimelist.net/anime/37521",
     "score": 0,
     "status": 6
   },

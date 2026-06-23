@@ -1,11 +1,22 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Parijat's Anime Wall</title>
     <link rel="stylesheet" href="style.css">
 </head>
-<body>
+<body class="is-loading">
+
+<div id="loader" class="loader" role="status" aria-live="polite" aria-label="Anime wall loading progress">
+    <div class="loader-content">
+        <div class="loader-title">Loading...</div>
+        <div id="loader-percent" class="loader-percent">0%</div>
+        <div class="loader-bar" aria-hidden="true">
+            <span></span>
+        </div>
+    </div>
+</div>
 
 <h1>Anime Wall</h1>
 

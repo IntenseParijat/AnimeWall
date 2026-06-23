@@ -4,6 +4,12 @@
     font-weight: normal;
     font-style: normal;
 }
+@font-face {
+    font-family: 'Dodger Cond Ital';
+    src: url('https://cdn.jsdelivr.net/gh/IntenseParijat/cdn@77de507368b0c6917c4dfccf9a622f3b4a3dab20/fonts/dodger3condital.woff2') format('woff2');
+    font-weight: normal;
+    font-style: italic;
+}
 
 :root{
     --surface:rgba(0,0,0,.68);
@@ -18,7 +24,7 @@
 
 body{
     margin:0;
-    background:#000;
+    background:#1a1a1a;
     color:var(--text);
     font-family:Arial,sans-serif;
 }
@@ -39,7 +45,7 @@ body.is-loading{
     background:
         radial-gradient(circle at 50% 30%, rgba(116,72,255,.22), transparent 34%),
         radial-gradient(circle at 20% 80%, rgba(22,113,255,.16), transparent 28%),
-        #000;
+        #1a1a1a;
     opacity:1;
     visibility:visible;
     transition:opacity .5s ease, visibility .5s ease;
@@ -63,10 +69,11 @@ body.is-loading{
 }
 
 .loader-title{
-    font-family:'Birmingham Signature', cursive;
+    font-family:'Dodger Cond Ital', sans-serif;
     font-size:3rem;
     line-height:1;
     margin-bottom:12px;
+    letter-spacing:.04em;
 }
 
 .loader-percent{

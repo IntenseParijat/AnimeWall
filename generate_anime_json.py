@@ -40,6 +40,9 @@ for status in statuses:
 
         image = anime.get("anime_image_path", "")
         image = image.replace("/r/192x272", "")
+        image = image.split("?")[0]
+        base, ext = image.rsplit(".", 1)
+        image = f"{base}l.{ext}"
 
         all_anime.append({
             "id": mal_id,

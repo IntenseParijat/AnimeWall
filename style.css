@@ -219,6 +219,22 @@ h1{
     text-align:center;
 }
 
+.footer-links img {
+    margin: 4px;
+    transition: transform .2s ease;
+}
+
+.footer-links img:hover {
+    transform: translateY(-2px);
+}
+
+.footer-copyright {
+    margin-top: 12px;
+    color: rgba(255,255,255,.6);
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+}
+
 @keyframes loader-shimmer{
     0%, 100%{transform:translateX(-35%) scaleX(.3);}
     50%{transform:translateX(35%) scaleX(.7);}

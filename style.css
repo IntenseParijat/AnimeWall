@@ -228,11 +228,32 @@ h1{
     transform: translateY(-2px);
 }
 
+.footer-links {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 4px;
+}
+
+.footer-links a {
+    display: inline-block;
+    line-height: 0;
+    text-decoration: none;
+}
+
+.copyright-footer {
+    margin: 80px auto 20px;
+    text-align: center;
+    width: 100%;
+}
+
 .footer-copyright {
     margin-top: 12px;
     color: rgba(255,255,255,.6);
     font-family: Arial, sans-serif;
     font-size: 13px;
+    letter-spacing: 0.5px;
 }
 
 @keyframes loader-shimmer{

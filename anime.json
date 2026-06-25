@@ -16,14 +16,6 @@
     "status": 1
   },
   {
-    "id": 62512,
-    "title": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
-    "image": "https://cdn.myanimelist.net/images/anime/1905/156697l.jpg",
-    "url": "https://myanimelist.net/anime/62512",
-    "score": 7,
-    "status": 1
-  },
-  {
     "id": 60310,
     "title": "Mairimashita! Iruma-kun 4th Season",
     "image": "https://cdn.myanimelist.net/images/anime/1434/154048l.jpg",
@@ -61,14 +53,6 @@
     "image": "https://cdn.myanimelist.net/images/anime/1946/146770l.jpg",
     "url": "https://myanimelist.net/anime/56701",
     "score": 0,
-    "status": 1
-  },
-  {
-    "id": 59708,
-    "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
-    "image": "https://cdn.myanimelist.net/images/anime/1176/153626l.jpg",
-    "url": "https://myanimelist.net/anime/59708",
-    "score": 9,
     "status": 1
   },
   {
@@ -621,6 +605,14 @@
     "image": "https://cdn.myanimelist.net/images/anime/1132/111619l.jpg",
     "url": "https://myanimelist.net/anime/39523",
     "score": 7,
+    "status": 2
+  },
+  {
+    "id": 56734,
+    "title": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
+    "image": "https://cdn.myanimelist.net/images/anime/1423/155713l.jpg",
+    "url": "https://myanimelist.net/anime/56734",
+    "score": 9,
     "status": 2
   },
   {
@@ -1240,6 +1232,14 @@
     "status": 2
   },
   {
+    "id": 61931,
+    "title": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. Season 2",
+    "image": "https://cdn.myanimelist.net/images/anime/1916/155657l.jpg",
+    "url": "https://myanimelist.net/anime/61931",
+    "score": 7,
+    "status": 2
+  },
+  {
     "id": 55774,
     "title": "Himesama \"Goumon\" no Jikan desu",
     "image": "https://cdn.myanimelist.net/images/anime/1056/139398l.jpg",
@@ -1608,6 +1608,14 @@
     "status": 2
   },
   {
+    "id": 62512,
+    "title": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
+    "image": "https://cdn.myanimelist.net/images/anime/1905/156697l.jpg",
+    "url": "https://myanimelist.net/anime/62512",
+    "score": 7,
+    "status": 2
+  },
+  {
     "id": 56230,
     "title": "Jiisan Baasan Wakagaeru",
     "image": "https://cdn.myanimelist.net/images/anime/1676/141714l.jpg",
@@ -1925,6 +1933,22 @@
     "image": "https://cdn.myanimelist.net/images/anime/1696/136634l.jpg",
     "url": "https://myanimelist.net/anime/53050",
     "score": 6,
+    "status": 2
+  },
+  {
+    "id": 59277,
+    "title": "Kanojo, Okarishimasu 4th Season",
+    "image": "https://cdn.myanimelist.net/images/anime/1071/150808l.jpg",
+    "url": "https://myanimelist.net/anime/59277",
+    "score": 5,
+    "status": 2
+  },
+  {
+    "id": 62485,
+    "title": "Kanojo, Okarishimasu 5th Season",
+    "image": "https://cdn.myanimelist.net/images/anime/1393/156075l.jpg",
+    "url": "https://myanimelist.net/anime/62485",
+    "score": 5,
     "status": 2
   },
   {
@@ -2432,46 +2456,6 @@
     "status": 2
   },
   {
-    "id": 44408,
-    "title": "Long Zu",
-    "image": "https://cdn.myanimelist.net/images/anime/1820/155863l.jpg",
-    "url": "https://myanimelist.net/anime/44408",
-    "score": 9,
-    "status": 2
-  },
-  {
-    "id": 56352,
-    "title": "Loop 7-kaime no Akuyaku Reijou wa, Moto Tekikoku de Jiyuu Kimama na Hanayome Seikatsu wo Mankitsu suru",
-    "image": "https://cdn.myanimelist.net/images/anime/1533/140617l.jpg",
-    "url": "https://myanimelist.net/anime/56352",
-    "score": 8,
-    "status": 2
-  },
-  {
-    "id": 32083,
-    "title": "Luck & Logic",
-    "image": "https://cdn.myanimelist.net/images/anime/5/77134l.jpg",
-    "url": "https://myanimelist.net/anime/32083",
-    "score": 7,
-    "status": 2
-  },
-  {
-    "id": 51458,
-    "title": "Lv1 Maou to One Room Yuusha",
-    "image": "https://cdn.myanimelist.net/images/anime/1879/136721l.jpg",
-    "url": "https://myanimelist.net/anime/51458",
-    "score": 7,
-    "status": 2
-  },
-  {
-    "id": 56923,
-    "title": "Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life",
-    "image": "https://cdn.myanimelist.net/images/anime/1103/142513l.jpg",
-    "url": "https://myanimelist.net/anime/56923",
-    "score": 7,
-    "status": 2
-  },
-  {
     "id": 54857,
     "title": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
     "image": "https://cdn.myanimelist.net/images/anime/1706/144725l.jpg",
@@ -2688,14 +2672,6 @@
     "status": 6
   },
   {
-    "id": 59985,
-    "title": "Boku no Kokoro no Yabai Yatsu Movie",
-    "image": "https://cdn.myanimelist.net/images/anime/1678/153935l.jpg",
-    "url": "https://myanimelist.net/anime/59985",
-    "score": 0,
-    "status": 6
-  },
-  {
     "id": 64059,
     "title": "Boushoku no Berserk 2nd Season",
     "image": "https://cdn.myanimelist.net/images/anime/1578/157088l.jpg",
@@ -2724,14 +2700,6 @@
     "title": "Chou Kaguya-hime!",
     "image": "https://cdn.myanimelist.net/images/anime/1758/153953l.jpg",
     "url": "https://myanimelist.net/anime/62896",
-    "score": 0,
-    "status": 6
-  },
-  {
-    "id": 56734,
-    "title": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
-    "image": "https://cdn.myanimelist.net/images/anime/1423/155713l.jpg",
-    "url": "https://myanimelist.net/anime/56734",
     "score": 0,
     "status": 6
   },
@@ -2796,14 +2764,6 @@
     "title": "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru 2nd Season",
     "image": "https://cdn.myanimelist.net/images/anime/1534/156314l.jpg",
     "url": "https://myanimelist.net/anime/63817",
-    "score": 0,
-    "status": 6
-  },
-  {
-    "id": 61931,
-    "title": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. Season 2",
-    "image": "https://cdn.myanimelist.net/images/anime/1916/155657l.jpg",
-    "url": "https://myanimelist.net/anime/61931",
     "score": 0,
     "status": 6
   },

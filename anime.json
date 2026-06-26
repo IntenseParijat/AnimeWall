@@ -1,5 +1,13 @@
 [
   {
+    "id": 61686,
+    "title": "Heroine? Seijo? Iie, All Works Maid desu (Hokori)!",
+    "image": "https://cdn.myanimelist.net/images/anime/1498/158290l.jpg",
+    "url": "https://myanimelist.net/anime/61686",
+    "score": 7,
+    "status": 1
+  },
+  {
     "id": 56646,
     "title": "Hokuto no Ken: Fist of the North Star",
     "image": "https://cdn.myanimelist.net/images/anime/1581/156641l.jpg",
@@ -16,11 +24,27 @@
     "status": 1
   },
   {
+    "id": 60852,
+    "title": "Koori no Jouheki",
+    "image": "https://cdn.myanimelist.net/images/anime/1565/154933l.jpg",
+    "url": "https://myanimelist.net/anime/60852",
+    "score": 8,
+    "status": 1
+  },
+  {
     "id": 60310,
     "title": "Mairimashita! Iruma-kun 4th Season",
     "image": "https://cdn.myanimelist.net/images/anime/1434/154048l.jpg",
     "url": "https://myanimelist.net/anime/60310",
     "score": 8,
+    "status": 1
+  },
+  {
+    "id": 63508,
+    "title": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku",
+    "image": "https://cdn.myanimelist.net/images/anime/1319/158376l.jpg",
+    "url": "https://myanimelist.net/anime/63508",
+    "score": 0,
     "status": 1
   },
   {
@@ -1240,6 +1264,14 @@
     "status": 2
   },
   {
+    "id": 60028,
+    "title": "Himekishi wa Barbaroi no Yome",
+    "image": "https://cdn.myanimelist.net/images/anime/1229/155022l.jpg",
+    "url": "https://myanimelist.net/anime/60028",
+    "score": 7,
+    "status": 2
+  },
+  {
     "id": 55774,
     "title": "Himesama \"Goumon\" no Jikan desu",
     "image": "https://cdn.myanimelist.net/images/anime/1056/139398l.jpg",
@@ -2448,14 +2480,6 @@
     "status": 2
   },
   {
-    "id": 30652,
-    "title": "Long Riders!",
-    "image": "https://cdn.myanimelist.net/images/anime/1684/150141l.jpg",
-    "url": "https://myanimelist.net/anime/30652",
-    "score": 6,
-    "status": 2
-  },
-  {
     "id": 54857,
     "title": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
     "image": "https://cdn.myanimelist.net/images/anime/1706/144725l.jpg",
@@ -3036,14 +3060,6 @@
     "title": "Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojousama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita",
     "image": "https://cdn.myanimelist.net/images/anime/1116/157083l.jpg",
     "url": "https://myanimelist.net/anime/62876",
-    "score": 0,
-    "status": 6
-  },
-  {
-    "id": 61831,
-    "title": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2",
-    "image": "https://cdn.myanimelist.net/images/anime/1738/156028l.jpg",
-    "url": "https://myanimelist.net/anime/61831",
     "score": 0,
     "status": 6
   },

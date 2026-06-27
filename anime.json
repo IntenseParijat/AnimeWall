@@ -8,14 +8,6 @@
     "status": 1
   },
   {
-    "id": 56646,
-    "title": "Hokuto no Ken: Fist of the North Star",
-    "image": "https://cdn.myanimelist.net/images/anime/1581/156641l.jpg",
-    "url": "https://myanimelist.net/anime/56646",
-    "score": 8,
-    "status": 1
-  },
-  {
     "id": 57466,
     "title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryoushu no Youjo",
     "image": "https://cdn.myanimelist.net/images/anime/1371/155054l.jpg",
@@ -40,6 +32,14 @@
     "status": 1
   },
   {
+    "id": 62048,
+    "title": "Mao",
+    "image": "https://cdn.myanimelist.net/images/anime/1738/156386l.jpg",
+    "url": "https://myanimelist.net/anime/62048",
+    "score": 0,
+    "status": 1
+  },
+  {
     "id": 63508,
     "title": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku",
     "image": "https://cdn.myanimelist.net/images/anime/1319/158376l.jpg",
@@ -53,14 +53,6 @@
     "image": "https://cdn.myanimelist.net/images/anime/1993/156385l.jpg",
     "url": "https://myanimelist.net/anime/61443",
     "score": 0,
-    "status": 1
-  },
-  {
-    "id": 62068,
-    "title": "Snowball Earth",
-    "image": "https://cdn.myanimelist.net/images/anime/1786/156390l.jpg",
-    "url": "https://myanimelist.net/anime/62068",
-    "score": 7,
     "status": 1
   },
   {
@@ -1304,6 +1296,14 @@
     "status": 2
   },
   {
+    "id": 56646,
+    "title": "Hokuto no Ken: Fist of the North Star",
+    "image": "https://cdn.myanimelist.net/images/anime/1581/156641l.jpg",
+    "url": "https://myanimelist.net/anime/56646",
+    "score": 8,
+    "status": 2
+  },
+  {
     "id": 48577,
     "title": "Home!",
     "image": "https://cdn.myanimelist.net/images/anime/1314/113741l.jpg",
@@ -2472,14 +2472,6 @@
     "status": 2
   },
   {
-    "id": 48633,
-    "title": "Liar Liar",
-    "image": "https://cdn.myanimelist.net/images/anime/1571/134525l.jpg",
-    "url": "https://myanimelist.net/anime/48633",
-    "score": 6,
-    "status": 2
-  },
-  {
     "id": 54857,
     "title": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
     "image": "https://cdn.myanimelist.net/images/anime/1706/144725l.jpg",
@@ -3124,6 +3116,14 @@
     "title": "Skip to Loafer 2nd Season",
     "image": "https://cdn.myanimelist.net/images/anime/1800/148268l.jpg",
     "url": "https://myanimelist.net/anime/60548",
+    "score": 0,
+    "status": 6
+  },
+  {
+    "id": 64482,
+    "title": "Snowball Earth 2nd Season",
+    "image": "https://cdn.myanimelist.net/images/anime/1432/158734l.jpg",
+    "url": "https://myanimelist.net/anime/64482",
     "score": 0,
     "status": 6
   },

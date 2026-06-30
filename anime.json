@@ -40,6 +40,14 @@
     "status": 1
   },
   {
+    "id": 61048,
+    "title": "Neko to Ryuu",
+    "image": "https://cdn.myanimelist.net/images/anime/1878/157796l.jpg",
+    "url": "https://myanimelist.net/anime/61048",
+    "score": 0,
+    "status": 1
+  },
+  {
     "id": 63508,
     "title": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku",
     "image": "https://cdn.myanimelist.net/images/anime/1319/158376l.jpg",
@@ -53,14 +61,6 @@
     "image": "https://cdn.myanimelist.net/images/anime/1993/156385l.jpg",
     "url": "https://myanimelist.net/anime/61443",
     "score": 0,
-    "status": 1
-  },
-  {
-    "id": 59983,
-    "title": "Tsue to Tsurugi no Wistoria Season 2",
-    "image": "https://cdn.myanimelist.net/images/anime/1190/155788l.jpg",
-    "url": "https://myanimelist.net/anime/59983",
-    "score": 9,
     "status": 1
   },
   {
@@ -2136,6 +2136,14 @@
     "status": 2
   },
   {
+    "id": 62391,
+    "title": "Kill Ao",
+    "image": "https://cdn.myanimelist.net/images/anime/1899/156600l.jpg",
+    "url": "https://myanimelist.net/anime/62391",
+    "score": 7,
+    "status": 2
+  },
+  {
     "id": 54714,
     "title": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo",
     "image": "https://cdn.myanimelist.net/images/anime/1812/136764l.jpg",
@@ -2460,14 +2468,6 @@
     "title": "Last Period: Owarinaki Rasen no Monogatari",
     "image": "https://cdn.myanimelist.net/images/anime/1710/95065l.jpg",
     "url": "https://myanimelist.net/anime/37254",
-    "score": 6,
-    "status": 2
-  },
-  {
-    "id": 51764,
-    "title": "Level 1 dakedo Unique Skill de Saikyou desu",
-    "image": "https://cdn.myanimelist.net/images/anime/1579/136295l.jpg",
-    "url": "https://myanimelist.net/anime/51764",
     "score": 6,
     "status": 2
   },
@@ -2872,6 +2872,14 @@
     "status": 6
   },
   {
+    "id": 64495,
+    "title": "Kill Ao 2nd Season",
+    "image": "https://cdn.myanimelist.net/images/anime/1730/158748l.jpg",
+    "url": "https://myanimelist.net/anime/64495",
+    "score": 0,
+    "status": 6
+  },
+  {
     "id": 6045,
     "title": "Kimi ni Todoke",
     "image": "https://cdn.myanimelist.net/images/anime/1502/124384l.jpg",
@@ -3212,6 +3220,14 @@
     "title": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san Season 2",
     "image": "https://cdn.myanimelist.net/images/anime/1711/156333l.jpg",
     "url": "https://myanimelist.net/anime/59873",
+    "score": 0,
+    "status": 6
+  },
+  {
+    "id": 64516,
+    "title": "Tongari Boushi no Atelier 2nd Season",
+    "image": "https://cdn.myanimelist.net/images/anime/1928/158795l.jpg",
+    "url": "https://myanimelist.net/anime/64516",
     "score": 0,
     "status": 6
   },

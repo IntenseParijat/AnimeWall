@@ -64,6 +64,14 @@
     "status": 1
   },
   {
+    "id": 54362,
+    "title": "Hametsu no Oukoku",
+    "image": "https://cdn.myanimelist.net/images/anime/1610/138189l.jpg",
+    "url": "https://myanimelist.net/anime/54362",
+    "score": 7,
+    "status": 2
+  },
+  {
     "id": 41380,
     "title": "100-man no Inochi no Ue ni Ore wa Tatteiru",
     "image": "https://cdn.myanimelist.net/images/anime/1506/117717l.jpg",
@@ -1229,6 +1237,14 @@
     "image": "https://cdn.myanimelist.net/images/anime/1861/141482l.jpg",
     "url": "https://myanimelist.net/anime/55877",
     "score": 6,
+    "status": 2
+  },
+  {
+    "id": 53732,
+    "title": "Hidarikiki no Eren",
+    "image": "https://cdn.myanimelist.net/images/anime/1015/156388l.jpg",
+    "url": "https://myanimelist.net/anime/53732",
+    "score": 7,
     "status": 2
   },
   {
@@ -2456,14 +2472,6 @@
     "status": 2
   },
   {
-    "id": 37587,
-    "title": "Lapis Re:LiGHTs",
-    "image": "https://cdn.myanimelist.net/images/anime/1880/107611l.jpg",
-    "url": "https://myanimelist.net/anime/37587",
-    "score": 6,
-    "status": 2
-  },
-  {
     "id": 54857,
     "title": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
     "image": "https://cdn.myanimelist.net/images/anime/1706/144725l.jpg",
@@ -3044,14 +3052,6 @@
     "title": "Ookami to Koushinryou: Merchant Meets the Wise Wolf 2nd Season",
     "image": "https://cdn.myanimelist.net/images/anime/1664/153382l.jpg",
     "url": "https://myanimelist.net/anime/59928",
-    "score": 0,
-    "status": 6
-  },
-  {
-    "id": 61013,
-    "title": "Replica datte, Koi wo Suru.",
-    "image": "https://cdn.myanimelist.net/images/anime/1148/155671l.jpg",
-    "url": "https://myanimelist.net/anime/61013",
     "score": 0,
     "status": 6
   },

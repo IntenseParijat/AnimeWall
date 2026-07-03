@@ -16,14 +16,6 @@
     "status": 1
   },
   {
-    "id": 60852,
-    "title": "Koori no Jouheki",
-    "image": "https://cdn.myanimelist.net/images/anime/1565/154933l.jpg",
-    "url": "https://myanimelist.net/anime/60852",
-    "score": 8,
-    "status": 1
-  },
-  {
     "id": 60310,
     "title": "Mairimashita! Iruma-kun 4th Season",
     "image": "https://cdn.myanimelist.net/images/anime/1434/154048l.jpg",
@@ -2384,6 +2376,14 @@
     "status": 2
   },
   {
+    "id": 60852,
+    "title": "Koori no Jouheki",
+    "image": "https://cdn.myanimelist.net/images/anime/1565/154933l.jpg",
+    "url": "https://myanimelist.net/anime/60852",
+    "score": 8,
+    "status": 2
+  },
+  {
     "id": 16782,
     "title": "Kotonoha no Niwa",
     "image": "https://cdn.myanimelist.net/images/anime/1597/112995l.jpg",
@@ -2461,14 +2461,6 @@
     "image": "https://cdn.myanimelist.net/images/anime/1025/147458l.jpg",
     "url": "https://myanimelist.net/anime/58514",
     "score": 10,
-    "status": 2
-  },
-  {
-    "id": 40332,
-    "title": "Kyochuu Rettou Movie",
-    "image": "https://cdn.myanimelist.net/images/anime/1721/119281l.jpg",
-    "url": "https://myanimelist.net/anime/40332",
-    "score": 7,
     "status": 2
   },
   {
@@ -2969,8 +2961,8 @@
   },
   {
     "id": 62844,
-    "title": "Kusuriya no Hitorigoto Movie",
-    "image": "https://cdn.myanimelist.net/images/anime/1059/152815l.jpg",
+    "title": "Kusuriya no Hitorigoto Movie: Bouhi no Hihou",
+    "image": "https://cdn.myanimelist.net/images/anime/1656/158840l.jpg",
     "url": "https://myanimelist.net/anime/62844",
     "score": 0,
     "status": 6

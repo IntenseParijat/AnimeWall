@@ -5,6 +5,7 @@ const loader = document.getElementById("loader");
 const loaderPercent = document.getElementById("loader-percent");
 const wall = document.getElementById("wall");
 
+let animeData = [];
 let displayedProgress = 0;
 let targetProgress = 0;
 let progressFrame;
@@ -151,6 +152,51 @@ function createAnimeCard(anime) {
     return { link, img };
 }
 
+function renderWall(data) {
+    wall.innerHTML = "";
+
+    data.forEach(anime => {
+        const { link } = createAnimeCard(anime);
+        wall.appendChild(link);
+    });
+}
+
+function sortAnime(mode) {
+    const sorted = [...animeData];
+
+    switch (mode) {
+        case "rating-desc":
+            sorted.sort((a, b) => (Number(b.score) || 0) - (Number(a.score) || 0));
+            break;
+
+        case "rating-asc":
+            sorted.sort((a, b) => (Number(a.score) || 0) - (Number(b.score) || 0));
+            break;
+
+        case "status-asc":
+            sorted.sort((a, b) =>
+                normalizeStatus(a.status)?.label.localeCompare(normalizeStatus(b.status)?.label || "") ?? 0
+            );
+            break;
+
+        case "status-desc":
+            sorted.sort((a, b) =>
+                normalizeStatus(b.status)?.label.localeCompare(normalizeStatus(a.status)?.label || "") ?? 0
+            );
+            break;
+
+        case "title-asc":
+            sorted.sort((a, b) => a.title.localeCompare(b.title));
+            break;
+
+        case "title-desc":
+            sorted.sort((a, b) => b.title.localeCompare(a.title));
+            break;
+    }
+
+    renderWall(sorted);
+}
+
 async function hideLoader() {
     setLoaderProgress(100);
 
@@ -190,15 +236,17 @@ async function initAnimeWall() {
         }
 
         const data = await response.json();
+        animeData = data;
         setLoaderProgress(35);
 
         let loadedImages = 0;
-        const imagePromises = data.map(anime => {
+
+        const imagePromises = animeData.map(anime => {
             const { link, img } = createAnimeCard(anime);
             wall.appendChild(link);
 
             return waitForImage(img).then(() => {
-                loadedImages += 1;
+                loadedImages++;
                 const imageProgress = data.length ? (loadedImages / data.length) * 60 : 60;
                 setLoaderProgress(35 + imageProgress);
             });

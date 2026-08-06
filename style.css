@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700&display=swap');
 @font-face {
     font-family: 'Birmingham Signature';
     src: url('https://cdn.jsdelivr.net/gh/IntenseParijat/cdn@bf6860aaceea2763804b9e3f81f209c46d4e40ee/fonts/Birmingham%20Signature.woff2') format('woff2');
@@ -254,6 +255,35 @@ h1{
     font-family: Arial, sans-serif;
     font-size: 13px;
     letter-spacing: 0.5px;
+}
+
+.controls {
+    display: flex;
+    justify-content: flex-end;
+    margin: 70px 0 40px;
+    padding-right: 5%;
+}
+
+.sort-select {
+    width: 240px;
+    height: 48px;
+    background: #1d1d1d;
+    color: #ffffff;
+    border: 1px solid #4b4b4b;
+    border-radius: 14px;
+    padding: 0 16px;
+    font-family: "Orbitron", sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    outline: none;
+    cursor: pointer;
+    transition: .2s ease;
+}
+
+.sort-select:hover,
+.sort-select:focus {
+    border-color: #7a7a7a;
+    box-shadow: 0 0 0 3px rgba(255,255,255,.05);
 }
 
 @keyframes loader-shimmer{

@@ -162,39 +162,29 @@ function renderWall(data) {
 }
 
 function sortAnime(mode) {
-    const sorted = [...animeData];
+    console.log(mode);
+    animeData.sort((a, b) => {
+        switch (mode) {
+            case "rating-desc":
+                return (Number(b.score) || 0) - (Number(a.score) || 0);
+            case "rating-asc":
+                return (Number(a.score) || 0) - (Number(b.score) || 0);
+            case "status-asc":
+                return (Number(a.status) || 0) - (Number(b.status) || 0);
+            case "status-desc":
+                return (Number(b.status) || 0) - (Number(a.status) || 0);
+            case "title-asc":
+                return a.title.localeCompare(b.title);
+            case "title-desc":
+                return b.title.localeCompare(a.title);
+            default:
+                return 0;
+        }
 
-    switch (mode) {
-        case "rating-desc":
-            sorted.sort((a, b) => (Number(b.score) || 0) - (Number(a.score) || 0));
-            break;
+    });
 
-        case "rating-asc":
-            sorted.sort((a, b) => (Number(a.score) || 0) - (Number(b.score) || 0));
-            break;
+    renderWall(animeData);
 
-        case "status-asc":
-            sorted.sort((a, b) =>
-                normalizeStatus(a.status)?.label.localeCompare(normalizeStatus(b.status)?.label || "") ?? 0
-            );
-            break;
-
-        case "status-desc":
-            sorted.sort((a, b) =>
-                normalizeStatus(b.status)?.label.localeCompare(normalizeStatus(a.status)?.label || "") ?? 0
-            );
-            break;
-
-        case "title-asc":
-            sorted.sort((a, b) => a.title.localeCompare(b.title));
-            break;
-
-        case "title-desc":
-            sorted.sort((a, b) => b.title.localeCompare(a.title));
-            break;
-    }
-
-    renderWall(sorted);
 }
 
 async function hideLoader() {
@@ -262,3 +252,14 @@ async function initAnimeWall() {
 }
 
 initAnimeWall();
+
+document.getElementById("sort").addEventListener("change", function () {
+
+    if (this.value === "default") {
+        renderWall(animeData);
+        return;
+    }
+
+    sortAnime(this.value);
+
+});

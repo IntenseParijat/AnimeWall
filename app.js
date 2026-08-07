@@ -4,8 +4,11 @@ const LOADER_HOLD_DELAY = 400;
 const loader = document.getElementById("loader");
 const loaderPercent = document.getElementById("loader-percent");
 const wall = document.getElementById("wall");
+const sortSelect = document.getElementById("sort");
 
 let animeData = [];
+let originalOrder = [];
+let masonryGrid;
 let displayedProgress = 0;
 let targetProgress = 0;
 let progressFrame;
@@ -13,23 +16,28 @@ let progressFrame;
 const statusMap = {
     watching: {
         label: "Watching",
-        className: "watching"
+        className: "watching",
+        sortOrder: 1
     },
     finished: {
         label: "Finished",
-        className: "finished"
+        className: "finished",
+        sortOrder: 2
     },
     dropped: {
         label: "Dropped",
-        className: "dropped"
+        className: "dropped",
+        sortOrder: 4
     },
     on_hold: {
         label: "On Hold",
-        className: "on-hold"
+        className: "on-hold",
+        sortOrder: 3
     },
     plan_to_watch: {
         label: "Plan to Watch",
-        className: "plan-to-watch"
+        className: "plan-to-watch",
+        sortOrder: 6
     }
 };
 
@@ -62,7 +70,7 @@ function normalizeStatus(status) {
         return null;
     }
 
-    const normalizedKey = String(status).trim().toLowerCase().replace(/-/g, "_");
+    const normalizedKey = String(status).trim().toLowerCase().replace(/[\s-]+/g, "_");
     const canonicalStatus = statusAliases.get(normalizedKey);
 
     return canonicalStatus ? statusMap[canonicalStatus] : null;
@@ -76,6 +84,16 @@ function getDisplayScore(score) {
     }
 
     return Number.isInteger(numericScore) ? String(numericScore) : numericScore.toFixed(1);
+}
+
+function getSortScore(score) {
+    const numericScore = Number(score);
+    return Number.isFinite(numericScore) ? numericScore : 0;
+}
+
+function getStatusSortOrder(status) {
+    const normalizedStatus = normalizeStatus(status);
+    return normalizedStatus ? normalizedStatus.sortOrder : 0;
 }
 
 function setLoaderProgress(progress) {
@@ -112,11 +130,23 @@ function waitForImage(img) {
 
         img.addEventListener("load", finish, { once: true });
         img.addEventListener("error", finish, { once: true });
+
+        if (img.complete) {
+            finish();
+        }
+
         setTimeout(finish, IMAGE_LOAD_TIMEOUT);
     });
 }
 
-function createAnimeCard(anime) {
+function createAnimeCard(anime, originalIndex) {
+    const item = document.createElement("div");
+    item.className = "masonry-item";
+    item.dataset.originalIndex = String(originalIndex);
+    item.dataset.score = String(getSortScore(anime.score));
+    item.dataset.status = String(getStatusSortOrder(anime.status));
+    item.dataset.title = (anime.title || "").trim();
+
     const link = document.createElement("a");
     link.href = anime.url;
     link.target = "_blank";
@@ -148,43 +178,74 @@ function createAnimeCard(anime) {
     }
 
     link.appendChild(img);
+    item.appendChild(link);
 
-    return { link, img };
+    return { item, img };
 }
 
-function renderWall(data) {
-    wall.innerHTML = "";
+function getItemData(item) {
+    const { dataset } = item.getElement();
 
-    data.forEach(anime => {
-        const { link } = createAnimeCard(anime);
-        wall.appendChild(link);
+    return {
+        originalIndex: Number(dataset.originalIndex),
+        score: Number(dataset.score),
+        status: Number(dataset.status),
+        title: dataset.title
+    };
+}
+
+function compareMasonryItems(itemA, itemB, mode) {
+    const a = getItemData(itemA);
+    const b = getItemData(itemB);
+    let comparison = 0;
+
+    switch (mode) {
+        case "rating-desc":
+            comparison = b.score - a.score;
+            break;
+        case "rating-asc":
+            comparison = a.score - b.score;
+            break;
+        case "status-desc":
+            comparison = b.status - a.status;
+            break;
+        case "status-asc":
+            comparison = a.status - b.status;
+            break;
+        case "title-desc":
+            comparison = b.title.localeCompare(a.title, undefined, { sensitivity: "base" });
+            break;
+        case "title-asc":
+            comparison = a.title.localeCompare(b.title, undefined, { sensitivity: "base" });
+            break;
+        default:
+            comparison = a.originalIndex - b.originalIndex;
+    }
+
+    return comparison || a.originalIndex - b.originalIndex;
+}
+
+function initializeMasonry() {
+    if (typeof Muuri !== "function") {
+        throw new Error("The masonry layout library could not be loaded.");
+    }
+
+    masonryGrid = new Muuri(wall, {
+        items: ".masonry-item",
+        layoutDuration: 450,
+        layoutEasing: "ease",
+        layoutOnResize: 120
     });
+
+    masonryGrid.refreshItems().layout();
 }
 
 function sortAnime(mode) {
-    console.log(mode);
-    animeData.sort((a, b) => {
-        switch (mode) {
-            case "rating-desc":
-                return (Number(b.score) || 0) - (Number(a.score) || 0);
-            case "rating-asc":
-                return (Number(a.score) || 0) - (Number(b.score) || 0);
-            case "status-asc":
-                return (Number(a.status) || 0) - (Number(b.status) || 0);
-            case "status-desc":
-                return (Number(b.status) || 0) - (Number(a.status) || 0);
-            case "title-asc":
-                return a.title.localeCompare(b.title);
-            case "title-desc":
-                return b.title.localeCompare(a.title);
-            default:
-                return 0;
-        }
+    if (!masonryGrid) {
+        return;
+    }
 
-    });
-
-    renderWall(animeData);
-
+    masonryGrid.sort((itemA, itemB) => compareMasonryItems(itemA, itemB, mode));
 }
 
 async function hideLoader() {
@@ -226,14 +287,20 @@ async function initAnimeWall() {
         }
 
         const data = await response.json();
+
+        if (!Array.isArray(data)) {
+            throw new Error("anime.json must contain an array of anime entries.");
+        }
+
         animeData = data;
+        originalOrder = animeData.map((anime, originalIndex) => ({ anime, originalIndex }));
         setLoaderProgress(35);
 
         let loadedImages = 0;
 
-        const imagePromises = animeData.map(anime => {
-            const { link, img } = createAnimeCard(anime);
-            wall.appendChild(link);
+        const imagePromises = originalOrder.map(({ anime, originalIndex }) => {
+            const { item, img } = createAnimeCard(anime, originalIndex);
+            wall.appendChild(item);
 
             return waitForImage(img).then(() => {
                 loadedImages++;
@@ -243,23 +310,20 @@ async function initAnimeWall() {
         });
 
         await Promise.all(imagePromises);
+        initializeMasonry();
         await hideLoader();
     } catch (error) {
         console.error(error);
-        wall.innerHTML = '<p class="error-message">Unable to load anime wall right now. Please try again later.</p>';
+        const message = document.createElement("p");
+        message.className = "error-message";
+        message.textContent = "Unable to load anime wall right now. Please try again later.";
+        wall.replaceChildren(message);
         await hideLoader();
     }
 }
 
 initAnimeWall();
 
-document.getElementById("sort").addEventListener("change", function () {
-
-    if (this.value === "default") {
-        renderWall(animeData);
-        return;
-    }
-
+sortSelect.addEventListener("change", function () {
     sortAnime(this.value);
-
 });

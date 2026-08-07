@@ -113,17 +113,22 @@ h1{
 }
 
 #wall{
-    column-count:6;
-    column-gap:12px;
+    --masonry-columns:6;
+    --masonry-gap:12px;
     padding:12px;
+    position:relative;
+}
+
+.masonry-item{
+    display:block;
+    width:calc((100% - (var(--masonry-columns) * var(--masonry-gap))) / var(--masonry-columns));
+    margin:0 var(--masonry-gap) 10px 0;
 }
 
 .anime-card{
     position:relative;
     display:block;
     width:100%;
-    margin-bottom:10px;
-    break-inside:avoid;
     border-radius:12px;
     overflow:hidden;
     color:inherit;
@@ -292,16 +297,16 @@ h1{
 }
 
 @media(max-width:1200px){
-    #wall{column-count:6;}
+    #wall{--masonry-columns:6;}
 }
 
 @media(max-width:800px){
-    #wall{column-count:4;}
+    #wall{--masonry-columns:4;}
 }
 
 @media(max-width:500px){
     h1{font-size:3.2rem;}
-    #wall{column-count:2;}
+    #wall{--masonry-columns:2;}
     .status-badge,
     .rating-badge{
         padding:5px 7px;

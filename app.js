@@ -194,6 +194,7 @@ function initializeMasonry() {
         columnWidth: ".anime-card",
         gutter: 12,
         percentPosition: true,
+        horizontalOrder: true,
         transitionDuration: "0.45s"
     });
 }

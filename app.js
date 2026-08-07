@@ -1,4 +1,3 @@
-const IMAGE_LOAD_TIMEOUT = 12000;
 const LOADER_HOLD_DELAY = 400;
 
 const loader = document.getElementById("loader");
@@ -8,7 +7,9 @@ const sortSelect = document.getElementById("sort");
 
 let animeData = [];
 let originalOrder = [];
-let masonryGrid;
+const cardByAnime = new Map();
+const originalIndexByAnime = new Map();
+let masonry;
 let displayedProgress = 0;
 let targetProgress = 0;
 let progressFrame;
@@ -16,30 +17,33 @@ let progressFrame;
 const statusMap = {
     watching: {
         label: "Watching",
-        className: "watching",
-        sortOrder: 1
+        className: "watching"
     },
     finished: {
         label: "Finished",
-        className: "finished",
-        sortOrder: 2
+        className: "finished"
     },
     dropped: {
         label: "Dropped",
-        className: "dropped",
-        sortOrder: 4
+        className: "dropped"
     },
     on_hold: {
         label: "On Hold",
-        className: "on-hold",
-        sortOrder: 3
+        className: "on-hold"
     },
     plan_to_watch: {
         label: "Plan to Watch",
-        className: "plan-to-watch",
-        sortOrder: 6
+        className: "plan-to-watch"
     }
 };
+
+const statusSortOrder = new Map([
+    [statusMap.watching, 1],
+    [statusMap.finished, 2],
+    [statusMap.on_hold, 3],
+    [statusMap.dropped, 4],
+    [statusMap.plan_to_watch, 6]
+]);
 
 const statusAliases = new Map([
     ["1", "watching"],
@@ -70,7 +74,7 @@ function normalizeStatus(status) {
         return null;
     }
 
-    const normalizedKey = String(status).trim().toLowerCase().replace(/[\s-]+/g, "_");
+    const normalizedKey = String(status).trim().toLowerCase().replace(/-/g, "_");
     const canonicalStatus = statusAliases.get(normalizedKey);
 
     return canonicalStatus ? statusMap[canonicalStatus] : null;
@@ -93,7 +97,7 @@ function getSortScore(score) {
 
 function getStatusSortOrder(status) {
     const normalizedStatus = normalizeStatus(status);
-    return normalizedStatus ? normalizedStatus.sortOrder : 0;
+    return statusSortOrder.get(normalizedStatus) || 0;
 }
 
 function setLoaderProgress(progress) {
@@ -115,38 +119,7 @@ function animateLoaderProgress() {
     progressFrame = requestAnimationFrame(animateLoaderProgress);
 }
 
-function waitForImage(img) {
-    return new Promise(resolve => {
-        let settled = false;
-        const finish = () => {
-            if (settled) {
-                return;
-            }
-
-            settled = true;
-            img.classList.add("loaded");
-            resolve();
-        };
-
-        img.addEventListener("load", finish, { once: true });
-        img.addEventListener("error", finish, { once: true });
-
-        if (img.complete) {
-            finish();
-        }
-
-        setTimeout(finish, IMAGE_LOAD_TIMEOUT);
-    });
-}
-
-function createAnimeCard(anime, originalIndex) {
-    const item = document.createElement("div");
-    item.className = "masonry-item";
-    item.dataset.originalIndex = String(originalIndex);
-    item.dataset.score = String(getSortScore(anime.score));
-    item.dataset.status = String(getStatusSortOrder(anime.status));
-    item.dataset.title = (anime.title || "").trim();
-
+function createAnimeCard(anime) {
     const link = document.createElement("a");
     link.href = anime.url;
     link.target = "_blank";
@@ -178,74 +151,66 @@ function createAnimeCard(anime, originalIndex) {
     }
 
     link.appendChild(img);
-    item.appendChild(link);
 
-    return { item, img };
+    return { link, img };
 }
 
-function getItemData(item) {
-    const { dataset } = item.getElement();
-
-    return {
-        originalIndex: Number(dataset.originalIndex),
-        score: Number(dataset.score),
-        status: Number(dataset.status),
-        title: dataset.title
-    };
-}
-
-function compareMasonryItems(itemA, itemB, mode) {
-    const a = getItemData(itemA);
-    const b = getItemData(itemB);
+function compareAnime(a, b, mode) {
     let comparison = 0;
 
     switch (mode) {
         case "rating-desc":
-            comparison = b.score - a.score;
+            comparison = getSortScore(b.score) - getSortScore(a.score);
             break;
         case "rating-asc":
-            comparison = a.score - b.score;
+            comparison = getSortScore(a.score) - getSortScore(b.score);
             break;
         case "status-desc":
-            comparison = b.status - a.status;
+            comparison = getStatusSortOrder(b.status) - getStatusSortOrder(a.status);
             break;
         case "status-asc":
-            comparison = a.status - b.status;
+            comparison = getStatusSortOrder(a.status) - getStatusSortOrder(b.status);
             break;
         case "title-desc":
-            comparison = b.title.localeCompare(a.title, undefined, { sensitivity: "base" });
+            comparison = String(b.title || "").localeCompare(String(a.title || ""), undefined, { sensitivity: "base" });
             break;
         case "title-asc":
-            comparison = a.title.localeCompare(b.title, undefined, { sensitivity: "base" });
+            comparison = String(a.title || "").localeCompare(String(b.title || ""), undefined, { sensitivity: "base" });
             break;
         default:
-            comparison = a.originalIndex - b.originalIndex;
+            comparison = originalIndexByAnime.get(a) - originalIndexByAnime.get(b);
     }
 
-    return comparison || a.originalIndex - b.originalIndex;
+    return comparison || originalIndexByAnime.get(a) - originalIndexByAnime.get(b);
 }
 
 function initializeMasonry() {
-    if (typeof Muuri !== "function") {
+    if (typeof Masonry !== "function") {
         throw new Error("The masonry layout library could not be loaded.");
     }
 
-    masonryGrid = new Muuri(wall, {
-        items: ".masonry-item",
-        layoutDuration: 450,
-        layoutEasing: "ease",
-        layoutOnResize: 120
+    masonry = new Masonry(wall, {
+        itemSelector: ".anime-card",
+        columnWidth: ".anime-card",
+        gutter: 12,
+        percentPosition: true,
+        transitionDuration: "0.45s"
     });
-
-    masonryGrid.refreshItems().layout();
 }
 
 function sortAnime(mode) {
-    if (!masonryGrid) {
+    if (!masonry) {
         return;
     }
 
-    masonryGrid.sort((itemA, itemB) => compareMasonryItems(itemA, itemB, mode));
+    animeData = mode === "default" ? originalOrder.slice() : animeData.sort((a, b) => compareAnime(a, b, mode));
+
+    animeData.forEach(anime => {
+        wall.appendChild(cardByAnime.get(anime));
+    });
+
+    masonry.reloadItems();
+    masonry.layout();
 }
 
 async function hideLoader() {
@@ -293,23 +258,33 @@ async function initAnimeWall() {
         }
 
         animeData = data;
-        originalOrder = animeData.map((anime, originalIndex) => ({ anime, originalIndex }));
+        originalOrder = animeData.slice();
+        originalOrder.forEach((anime, originalIndex) => {
+            originalIndexByAnime.set(anime, originalIndex);
+        });
         setLoaderProgress(35);
 
         let loadedImages = 0;
 
-        const imagePromises = originalOrder.map(({ anime, originalIndex }) => {
-            const { item, img } = createAnimeCard(anime, originalIndex);
-            wall.appendChild(item);
-
-            return waitForImage(img).then(() => {
-                loadedImages++;
-                const imageProgress = data.length ? (loadedImages / data.length) * 60 : 60;
-                setLoaderProgress(35 + imageProgress);
-            });
+        originalOrder.forEach(anime => {
+            const { link } = createAnimeCard(anime);
+            cardByAnime.set(anime, link);
+            wall.appendChild(link);
         });
 
-        await Promise.all(imagePromises);
+        if (typeof imagesLoaded !== "function") {
+            throw new Error("The image loading library could not be loaded.");
+        }
+
+        const imageLoader = imagesLoaded(wall);
+        imageLoader.on("progress", (instance, image) => {
+            image.img.classList.add("loaded");
+            loadedImages++;
+            const imageProgress = data.length ? (loadedImages / data.length) * 60 : 60;
+            setLoaderProgress(35 + imageProgress);
+        });
+
+        await new Promise(resolve => imageLoader.on("always", resolve));
         initializeMasonry();
         await hideLoader();
     } catch (error) {
@@ -317,7 +292,9 @@ async function initAnimeWall() {
         const message = document.createElement("p");
         message.className = "error-message";
         message.textContent = "Unable to load anime wall right now. Please try again later.";
-        wall.replaceChildren(message);
+        if (!wall.children.length) {
+            wall.appendChild(message);
+        }
         await hideLoader();
     }
 }

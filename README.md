@@ -2,6 +2,7 @@
 My Personal Anime List recompiled from MyAnimeList
 
 Preview: https://intenseparijat.github.io/AnimeWall/
+
 Blog: https://aboutparijat.blogspot.com/2026/01/anime-collection.html
 
 ## Attribution

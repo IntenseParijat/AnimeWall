@@ -1,89 +1,100 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Parijat's Anime Wall</title>
     <link rel="stylesheet" href="style.css">
 </head>
+
 <body class="is-loading">
 
-<div id="loader" class="loader" role="status" aria-live="polite" aria-label="Anime wall loading progress">
-    <div class="loader-content">
-        <div class="loader-title">Loading...</div>
-        <div id="loader-percent" class="loader-percent">0%</div>
-        <div class="loader-bar" aria-hidden="true">
-            <span></span>
+    <div id="loader" class="loader" role="status" aria-live="polite" aria-label="Anime wall loading progress">
+        <div class="loader-content">
+            <div class="loader-title">Loading...</div>
+            <div id="loader-percent" class="loader-percent">0%</div>
+            <div class="loader-bar" aria-hidden="true">
+                <span></span>
+            </div>
         </div>
     </div>
-</div>
 
-<header class="page-header">
-    <h1>Anime Wall</h1>
+    <header class="page-header">
+        <h1>Anime Wall</h1>
 
-    <div class="controls">
-        <select id="sort" class="sort-select">
-            <option value="default">Random</option>
-            <option value="rating-desc">Rating ▼ 10 to 1</option>
-            <option value="rating-asc">Rating ▲ 1 to 10</option>
-            <option value="status-asc">Status ▲ Ascending</option>
-            <option value="status-desc">Status ▼ Descending</option>
-            <option value="title-asc">Title ▲ A to Z</option>
-            <option value="title-desc">Title ▼ Z to A</option>
-        </select>
-    </div>
-</header>
+        <div class="controls">
+            <select id="sort" class="sort-select">
+                <option value="default">Random</option>
+                <option value="rating-desc">Rating ▼ 10 to 1</option>
+                <option value="rating-asc">Rating ▲ 1 to 10</option>
+                <option value="status-asc">Status ▲ Ascending</option>
+                <option value="status-desc">Status ▼ Descending</option>
+                <option value="title-asc">Title ▲ A to Z</option>
+                <option value="title-desc">Title ▼ Z to A</option>
+            </select>
+        </div>
+    </header>
 
-<div id="wall"></div>
+    <div id="wall"></div>
 
-<footer class="copyright-footer">
+    <footer class="copyright-footer">
 
-    <div class="footer-links">
-    
-        <a href="https://github.com/IntenseParijat" target="_blank" rel="noopener">
-            <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF&color=0D1117" alt="GitHub">
-        </a>
-    
-        <a href="https://AboutParijat.blogspot.com" target="_blank" rel="noopener">
-            <img src="https://img.shields.io/badge/About_Parijat-111827?style=for-the-badge&logo=blogger&logoColor=FF5722&color=0D1117" alt="Personal Blog">
-        </a>
-    
-        <a href="https://t.me/ParijatSoftwares" target="_blank" rel="noopener">
-            <img src="https://img.shields.io/badge/Telegram-111827?style=for-the-badge&logo=telegram&logoColor=26A5E4&color=0D1117" alt="Personal Telegram">
-        </a>
-    
-        <a href="https://www.youtube.com/@ParijatDas-Intense" target="_blank" rel="noopener">
-            <img src="https://img.shields.io/badge/YouTube-111827?style=for-the-badge&logo=youtube&logoColor=FF0000&color=0D1117" alt="Personal YouTube Channel">
-        </a>
-    
-        <a href="https://www.facebook.com/parijatsoftwares" target="_blank" rel="noopener">
-            <img src="https://img.shields.io/badge/Facebook-111827?style=for-the-badge&logo=facebook&logoColor=1877F2&color=0D1117" alt="Personal Facebook">
-        </a>
-    
-        <a href="https://instagram.com/parijatsoftwares" target="_blank" rel="noopener">
-            <img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=E4405F&color=0D1117" alt="Personal Instagram">
-        </a>
-    
-        <a href="https://myanimelist.net/animelist/ParijatSoftwares" target="_blank" rel="noopener">
-            <img src="https://img.shields.io/badge/MyAnimeList-111827?style=for-the-badge&logo=myanimelist&logoColor=2E51A2&color=0D1117" alt="MyAnimeList">
-        </a>
-    
-        <a href="mailto:parijatdas.business@gmail.com">
-            <img src="https://img.shields.io/badge/Business_Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335&color=0D1117" alt="Personal Business Email">
-        </a>
-    
-    </div>
-    
-    <div class="footer-copyright">
-        © Parijat Das, 2026
-    </div>
-    
+        <div class="footer-links">
+
+            <a href="https://github.com/IntenseParijat" target="_blank" rel="noopener">
+                <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF&color=0D1117"
+                    alt="GitHub">
+            </a>
+
+            <a href="https://AboutParijat.blogspot.com" target="_blank" rel="noopener">
+                <img src="https://img.shields.io/badge/About_Parijat-111827?style=for-the-badge&logo=blogger&logoColor=FF5722&color=0D1117"
+                    alt="Personal Blog">
+            </a>
+
+            <a href="https://t.me/ParijatSoftwares" target="_blank" rel="noopener">
+                <img src="https://img.shields.io/badge/Telegram-111827?style=for-the-badge&logo=telegram&logoColor=26A5E4&color=0D1117"
+                    alt="Personal Telegram">
+            </a>
+
+            <a href="https://www.youtube.com/@ParijatDas-Intense" target="_blank" rel="noopener">
+                <img src="https://img.shields.io/badge/YouTube-111827?style=for-the-badge&logo=youtube&logoColor=FF0000&color=0D1117"
+                    alt="Personal YouTube Channel">
+            </a>
+
+            <a href="https://www.facebook.com/parijatsoftwares" target="_blank" rel="noopener">
+                <img src="https://img.shields.io/badge/Facebook-111827?style=for-the-badge&logo=facebook&logoColor=1877F2&color=0D1117"
+                    alt="Personal Facebook">
+            </a>
+
+            <a href="https://instagram.com/parijatsoftwares" target="_blank" rel="noopener">
+                <img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=E4405F&color=0D1117"
+                    alt="Personal Instagram">
+            </a>
+
+            <a href="https://myanimelist.net/animelist/ParijatSoftwares" target="_blank" rel="noopener">
+                <img src="https://img.shields.io/badge/MyAnimeList-111827?style=for-the-badge&logo=myanimelist&logoColor=2E51A2&color=0D1117"
+                    alt="MyAnimeList">
+            </a>
+
+            <a href="mailto:parijatdas.business@gmail.com">
+                <img src="https://img.shields.io/badge/Business_Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335&color=0D1117"
+                    alt="Personal Business Email">
+            </a>
+
+        </div>
+
+        <div class="footer-copyright">
+            © Parijat Das, 2026
+        </div>
+
     </footer>
-    
 
-<script src="https://unpkg.com/imagesloaded@5/imagesloaded.pkgd.min.js"></script>
-<script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
-<script src="app.js"></script>
+
+    <script src="https://unpkg.com/imagesloaded@5/imagesloaded.pkgd.min.js"></script>
+    <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
+    <script src="app.js"></script>
 
 </body>
+
 </html>

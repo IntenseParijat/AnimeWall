@@ -8,14 +8,6 @@
     "status": 1
   },
   {
-    "id": 61686,
-    "title": "Heroine? Seijo? Iie, All Works Maid desu (Hokori)!",
-    "image": "https://cdn.myanimelist.net/images/anime/1498/158290l.jpg",
-    "url": "https://myanimelist.net/anime/61686",
-    "score": 7,
-    "status": 1
-  },
-  {
     "id": 57466,
     "title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryoushu no Youjo",
     "image": "https://cdn.myanimelist.net/images/anime/1371/155054l.jpg",
@@ -1264,6 +1256,14 @@
     "status": 2
   },
   {
+    "id": 61686,
+    "title": "Heroine? Seijo? Iie, All Works Maid desu (Hokori)!",
+    "image": "https://cdn.myanimelist.net/images/anime/1498/158290l.jpg",
+    "url": "https://myanimelist.net/anime/61686",
+    "score": 7,
+    "status": 2
+  },
+  {
     "id": 53732,
     "title": "Hidarikiki no Eren",
     "image": "https://cdn.myanimelist.net/images/anime/1015/156388l.jpg",
@@ -2432,6 +2432,14 @@
     "status": 2
   },
   {
+    "id": 58929,
+    "title": "Koukaku Kidoutai (TV)",
+    "image": "https://cdn.myanimelist.net/images/anime/1474/158937l.jpg",
+    "url": "https://myanimelist.net/anime/58929",
+    "score": 8,
+    "status": 2
+  },
+  {
     "id": 51815,
     "title": "Kubo-san wa Mob wo Yurusanai",
     "image": "https://cdn.myanimelist.net/images/anime/1818/132330l.jpg",
@@ -2461,22 +2469,6 @@
     "image": "https://cdn.myanimelist.net/images/anime/8/78863l.jpg",
     "url": "https://myanimelist.net/anime/31804",
     "score": 6,
-    "status": 2
-  },
-  {
-    "id": 37984,
-    "title": "Kumo desu ga, Nani ka?",
-    "image": "https://cdn.myanimelist.net/images/anime/1593/113724l.jpg",
-    "url": "https://myanimelist.net/anime/37984",
-    "score": 9,
-    "status": 2
-  },
-  {
-    "id": 51064,
-    "title": "Kuro no Shoukanshi",
-    "image": "https://cdn.myanimelist.net/images/anime/1517/125496l.jpg",
-    "url": "https://myanimelist.net/anime/51064",
-    "score": 8,
     "status": 2
   },
   {

@@ -40,18 +40,18 @@
     "status": 1
   },
   {
-    "id": 62001,
-    "title": "Yomi no Tsugai",
-    "image": "https://cdn.myanimelist.net/images/anime/1171/156397l.jpg",
-    "url": "https://myanimelist.net/anime/62001",
-    "score": 0,
-    "status": 1
-  },
-  {
     "id": 54362,
     "title": "Hametsu no Oukoku",
     "image": "https://cdn.myanimelist.net/images/anime/1610/138189l.jpg",
     "url": "https://myanimelist.net/anime/54362",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 63537,
+    "title": "\"Kimi wo Aisuru Ki wa Nai\" to Itta Jiki Koushaku-sama ga Nazeka Dekiai shitekimasu",
+    "image": "https://cdn.myanimelist.net/images/anime/1217/158710l.jpg",
+    "url": "https://myanimelist.net/anime/63537",
     "score": 7,
     "status": 2
   },
@@ -1228,6 +1228,14 @@
     "title": "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru",
     "image": "https://cdn.myanimelist.net/images/anime/1151/152479l.jpg",
     "url": "https://myanimelist.net/anime/60460",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 63817,
+    "title": "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru 2nd Season",
+    "image": "https://cdn.myanimelist.net/images/anime/1534/156314l.jpg",
+    "url": "https://myanimelist.net/anime/63817",
     "score": 7,
     "status": 2
   },
@@ -2440,22 +2448,6 @@
     "status": 2
   },
   {
-    "id": 57663,
-    "title": "Kui Cheng Shoufu Cong Youxi Kaishi",
-    "image": "https://cdn.myanimelist.net/images/anime/1222/154472l.jpg",
-    "url": "https://myanimelist.net/anime/57663",
-    "score": 8,
-    "status": 2
-  },
-  {
-    "id": 40974,
-    "title": "Kuma Kuma Kuma Bear",
-    "image": "https://cdn.myanimelist.net/images/anime/1413/110712l.jpg",
-    "url": "https://myanimelist.net/anime/40974",
-    "score": 6,
-    "status": 2
-  },
-  {
     "id": 40748,
     "title": "Jujutsu Kaisen",
     "image": "https://cdn.myanimelist.net/images/anime/1171/109222l.jpg",
@@ -2776,14 +2768,6 @@
     "status": 6
   },
   {
-    "id": 63817,
-    "title": "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru 2nd Season",
-    "image": "https://cdn.myanimelist.net/images/anime/1534/156314l.jpg",
-    "url": "https://myanimelist.net/anime/63817",
-    "score": 0,
-    "status": 6
-  },
-  {
     "id": 64487,
     "title": "Hokuto no Ken: Fist of the North Star Part 2",
     "image": "https://cdn.myanimelist.net/images/anime/1786/158900l.jpg",
@@ -3064,6 +3048,14 @@
     "status": 6
   },
   {
+    "id": 65025,
+    "title": "Neko to Ryuu 2nd Season",
+    "image": "https://cdn.myanimelist.net/images/anime/1578/160151l.jpg",
+    "url": "https://myanimelist.net/anime/65025",
+    "score": 0,
+    "status": 6
+  },
+  {
     "id": 60525,
     "title": "Nozomanu Fushi no Boukensha 2nd Season",
     "image": "https://cdn.myanimelist.net/images/anime/1569/146966l.jpg",
@@ -3276,6 +3268,14 @@
     "title": "Vinland Saga",
     "image": "https://cdn.myanimelist.net/images/anime/1500/103005l.jpg",
     "url": "https://myanimelist.net/anime/37521",
+    "score": 0,
+    "status": 6
+  },
+  {
+    "id": 65024,
+    "title": "Yomi no Tsugai 2nd Season",
+    "image": "https://cdn.myanimelist.net/images/anime/1238/160150l.jpg",
+    "url": "https://myanimelist.net/anime/65024",
     "score": 0,
     "status": 6
   },

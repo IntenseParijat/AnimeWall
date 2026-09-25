@@ -1,5 +1,13 @@
 [
   {
+    "id": 63316,
+    "title": "Dogulwang",
+    "image": "https://cdn.myanimelist.net/images/anime/1910/158471l.jpg",
+    "url": "https://myanimelist.net/anime/63316",
+    "score": 8,
+    "status": 1
+  },
+  {
     "id": 58780,
     "title": "Enter The Garden",
     "image": "https://cdn.myanimelist.net/images/anime/1867/144672l.jpg",
@@ -805,14 +813,6 @@
     "image": "https://cdn.myanimelist.net/images/anime/1918/138185l.jpg",
     "url": "https://myanimelist.net/anime/52985",
     "score": 6,
-    "status": 2
-  },
-  {
-    "id": 63316,
-    "title": "Dogulwang",
-    "image": "https://cdn.myanimelist.net/images/anime/1910/158471l.jpg",
-    "url": "https://myanimelist.net/anime/63316",
-    "score": 8,
     "status": 2
   },
   {
@@ -2460,6 +2460,14 @@
     "title": "Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu",
     "image": "https://cdn.myanimelist.net/images/anime/1720/139131l.jpg",
     "url": "https://myanimelist.net/anime/52934",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 60852,
+    "title": "Koori no Jouheki",
+    "image": "https://cdn.myanimelist.net/images/anime/1565/154933l.jpg",
+    "url": "https://myanimelist.net/anime/60852",
     "score": 8,
     "status": 2
   },

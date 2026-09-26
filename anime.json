@@ -16,14 +16,6 @@
     "status": 1
   },
   {
-    "id": 63817,
-    "title": "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru 2nd Season",
-    "image": "https://cdn.myanimelist.net/images/anime/1534/156314l.jpg",
-    "url": "https://myanimelist.net/anime/63817",
-    "score": 7,
-    "status": 1
-  },
-  {
     "id": 57466,
     "title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryoushu no Youjo",
     "image": "https://cdn.myanimelist.net/images/anime/1371/155054l.jpg",
@@ -1288,6 +1280,14 @@
     "status": 2
   },
   {
+    "id": 63817,
+    "title": "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru 2nd Season",
+    "image": "https://cdn.myanimelist.net/images/anime/1534/156314l.jpg",
+    "url": "https://myanimelist.net/anime/63817",
+    "score": 7,
+    "status": 2
+  },
+  {
     "id": 55877,
     "title": "Henjin no Salad Bowl",
     "image": "https://cdn.myanimelist.net/images/anime/1861/141482l.jpg",
@@ -2464,14 +2464,6 @@
     "status": 2
   },
   {
-    "id": 60852,
-    "title": "Koori no Jouheki",
-    "image": "https://cdn.myanimelist.net/images/anime/1565/154933l.jpg",
-    "url": "https://myanimelist.net/anime/60852",
-    "score": 8,
-    "status": 2
-  },
-  {
     "id": 40748,
     "title": "Jujutsu Kaisen",
     "image": "https://cdn.myanimelist.net/images/anime/1171/109222l.jpg",
@@ -2788,6 +2780,14 @@
     "title": "Hanarokushou ga Akeru Hi ni",
     "image": "https://cdn.myanimelist.net/images/anime/1383/154446l.jpg",
     "url": "https://myanimelist.net/anime/58735",
+    "score": 0,
+    "status": 6
+  },
+  {
+    "id": 65073,
+    "title": "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru - S-kyuu Dungeon Kouryaku-hen",
+    "image": "https://cdn.myanimelist.net/images/anime/1388/160262l.jpg",
+    "url": "https://myanimelist.net/anime/65073",
     "score": 0,
     "status": 6
   },

@@ -1,13 +1,5 @@
 [
   {
-    "id": 63316,
-    "title": "Dogulwang",
-    "image": "https://cdn.myanimelist.net/images/anime/1910/158471l.jpg",
-    "url": "https://myanimelist.net/anime/63316",
-    "score": 8,
-    "status": 1
-  },
-  {
     "id": 58780,
     "title": "Enter The Garden",
     "image": "https://cdn.myanimelist.net/images/anime/1867/144672l.jpg",
@@ -44,6 +36,22 @@
     "title": "Mao",
     "image": "https://cdn.myanimelist.net/images/anime/1738/156386l.jpg",
     "url": "https://myanimelist.net/anime/62048",
+    "score": 0,
+    "status": 1
+  },
+  {
+    "id": 60948,
+    "title": "Mezametara Saikyou Soubi to Uchuusenmochi Datta node, Ikkodate Mezashite Youhei toshite Jiyuu ni Ikitai",
+    "image": "https://cdn.myanimelist.net/images/anime/1889/160053l.jpg",
+    "url": "https://myanimelist.net/anime/60948",
+    "score": 0,
+    "status": 1
+  },
+  {
+    "id": 61578,
+    "title": "Seitokai ni mo Ana wa Aru!",
+    "image": "https://cdn.myanimelist.net/images/anime/1877/160134l.jpg",
+    "url": "https://myanimelist.net/anime/61578",
     "score": 0,
     "status": 1
   },
@@ -813,6 +821,14 @@
     "image": "https://cdn.myanimelist.net/images/anime/1918/138185l.jpg",
     "url": "https://myanimelist.net/anime/52985",
     "score": 6,
+    "status": 2
+  },
+  {
+    "id": 63316,
+    "title": "Dogulwang",
+    "image": "https://cdn.myanimelist.net/images/anime/1910/158471l.jpg",
+    "url": "https://myanimelist.net/anime/63316",
+    "score": 8,
     "status": 2
   },
   {
@@ -2456,14 +2472,6 @@
     "status": 2
   },
   {
-    "id": 49458,
-    "title": "Kono Subarashii Sekai ni Shukufuku wo! 3",
-    "image": "https://cdn.myanimelist.net/images/anime/1758/141268l.jpg",
-    "url": "https://myanimelist.net/anime/49458",
-    "score": 7,
-    "status": 2
-  },
-  {
     "id": 40748,
     "title": "Jujutsu Kaisen",
     "image": "https://cdn.myanimelist.net/images/anime/1171/109222l.jpg",
@@ -2605,6 +2613,14 @@
     "image": "https://cdn.myanimelist.net/images/anime/1668/148737l.jpg",
     "url": "https://myanimelist.net/anime/58505",
     "score": 5,
+    "status": 4
+  },
+  {
+    "id": 60059,
+    "title": "Nige Jouzu no Wakagimi 2nd Season",
+    "image": "https://cdn.myanimelist.net/images/anime/1289/156329l.jpg",
+    "url": "https://myanimelist.net/anime/60059",
+    "score": 6,
     "status": 4
   },
   {
@@ -3072,14 +3088,6 @@
     "status": 6
   },
   {
-    "id": 60948,
-    "title": "Mezametara Saikyou Soubi to Uchuusenmochi Datta node, Ikkodate Mezashite Youhei toshite Jiyuu ni Ikitai",
-    "image": "https://cdn.myanimelist.net/images/anime/1889/160053l.jpg",
-    "url": "https://myanimelist.net/anime/60948",
-    "score": 0,
-    "status": 6
-  },
-  {
     "id": 65077,
     "title": "Mushoku Tensei III: Isekai Ittara Honki Dasu Part 2",
     "image": "https://cdn.myanimelist.net/images/anime/1216/160273l.jpg",
@@ -3140,14 +3148,6 @@
     "title": "Seirei Gensouki 3",
     "image": "https://cdn.myanimelist.net/images/anime/1603/160328l.jpg",
     "url": "https://myanimelist.net/anime/65087",
-    "score": 0,
-    "status": 6
-  },
-  {
-    "id": 61578,
-    "title": "Seitokai ni mo Ana wa Aru!",
-    "image": "https://cdn.myanimelist.net/images/anime/1877/160134l.jpg",
-    "url": "https://myanimelist.net/anime/61578",
     "score": 0,
     "status": 6
   },

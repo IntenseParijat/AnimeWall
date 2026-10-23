@@ -80,14 +80,6 @@
     "status": 1
   },
   {
-    "id": 54362,
-    "title": "Hametsu no Oukoku",
-    "image": "https://cdn.myanimelist.net/images/anime/1610/138189l.jpg",
-    "url": "https://myanimelist.net/anime/54362",
-    "score": 7,
-    "status": 2
-  },
-  {
     "id": 63537,
     "title": "\"Kimi wo Aisuru Ki wa Nai\" to Itta Jiki Koushaku-sama ga Nazeka Dekiai shitekimasu",
     "image": "https://cdn.myanimelist.net/images/anime/1217/158710l.jpg",
@@ -1245,6 +1237,14 @@
     "image": "https://cdn.myanimelist.net/images/anime/1302/119917l.jpg",
     "url": "https://myanimelist.net/anime/49519",
     "score": 6,
+    "status": 2
+  },
+  {
+    "id": 54362,
+    "title": "Hametsu no Oukoku",
+    "image": "https://cdn.myanimelist.net/images/anime/1610/138189l.jpg",
+    "url": "https://myanimelist.net/anime/54362",
+    "score": 7,
     "status": 2
   },
   {
@@ -2488,6 +2488,2934 @@
     "status": 2
   },
   {
+    "id": 49458,
+    "title": "Kono Subarashii Sekai ni Shukufuku wo! 3",
+    "image": "https://cdn.myanimelist.net/images/anime/1758/141268l.jpg",
+    "url": "https://myanimelist.net/anime/49458",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 38040,
+    "title": "Kono Subarashii Sekai ni Shukufuku wo! Movie: Kurenai Densetsu",
+    "image": "https://cdn.myanimelist.net/images/anime/1638/119321l.jpg",
+    "url": "https://myanimelist.net/anime/38040",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 52934,
+    "title": "Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu",
+    "image": "https://cdn.myanimelist.net/images/anime/1720/139131l.jpg",
+    "url": "https://myanimelist.net/anime/52934",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 60852,
+    "title": "Koori no Jouheki",
+    "image": "https://cdn.myanimelist.net/images/anime/1565/154933l.jpg",
+    "url": "https://myanimelist.net/anime/60852",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 16782,
+    "title": "Kotonoha no Niwa",
+    "image": "https://cdn.myanimelist.net/images/anime/1597/112995l.jpg",
+    "url": "https://myanimelist.net/anime/16782",
+    "score": 10,
+    "status": 2
+  },
+  {
+    "id": 56907,
+    "title": "Koujo Denka no Kateikyoushi",
+    "image": "https://cdn.myanimelist.net/images/anime/1445/150685l.jpg",
+    "url": "https://myanimelist.net/anime/56907",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 58929,
+    "title": "Koukaku Kidoutai (TV)",
+    "image": "https://cdn.myanimelist.net/images/anime/1474/158937l.jpg",
+    "url": "https://myanimelist.net/anime/58929",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 51815,
+    "title": "Kubo-san wa Mob wo Yurusanai",
+    "image": "https://cdn.myanimelist.net/images/anime/1818/132330l.jpg",
+    "url": "https://myanimelist.net/anime/51815",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 57663,
+    "title": "Kui Cheng Shoufu Cong Youxi Kaishi",
+    "image": "https://cdn.myanimelist.net/images/anime/1222/154472l.jpg",
+    "url": "https://myanimelist.net/anime/57663",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 40974,
+    "title": "Kuma Kuma Kuma Bear",
+    "image": "https://cdn.myanimelist.net/images/anime/1413/110712l.jpg",
+    "url": "https://myanimelist.net/anime/40974",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 31804,
+    "title": "Kuma Miko",
+    "image": "https://cdn.myanimelist.net/images/anime/8/78863l.jpg",
+    "url": "https://myanimelist.net/anime/31804",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 37984,
+    "title": "Kumo desu ga, Nani ka?",
+    "image": "https://cdn.myanimelist.net/images/anime/1593/113724l.jpg",
+    "url": "https://myanimelist.net/anime/37984",
+    "score": 9,
+    "status": 2
+  },
+  {
+    "id": 51064,
+    "title": "Kuro no Shoukanshi",
+    "image": "https://cdn.myanimelist.net/images/anime/1517/125496l.jpg",
+    "url": "https://myanimelist.net/anime/51064",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 54492,
+    "title": "Kusuriya no Hitorigoto",
+    "image": "https://cdn.myanimelist.net/images/anime/1708/138033l.jpg",
+    "url": "https://myanimelist.net/anime/54492",
+    "score": 10,
+    "status": 2
+  },
+  {
+    "id": 58514,
+    "title": "Kusuriya no Hitorigoto 2nd Season",
+    "image": "https://cdn.myanimelist.net/images/anime/1025/147458l.jpg",
+    "url": "https://myanimelist.net/anime/58514",
+    "score": 10,
+    "status": 2
+  },
+  {
+    "id": 40332,
+    "title": "Kyochuu Rettou Movie",
+    "image": "https://cdn.myanimelist.net/images/anime/1721/119281l.jpg",
+    "url": "https://myanimelist.net/anime/40332",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 37587,
+    "title": "Lapis Re:LiGHTs",
+    "image": "https://cdn.myanimelist.net/images/anime/1880/107611l.jpg",
+    "url": "https://myanimelist.net/anime/37587",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 37254,
+    "title": "Last Period: Owarinaki Rasen no Monogatari",
+    "image": "https://cdn.myanimelist.net/images/anime/1710/95065l.jpg",
+    "url": "https://myanimelist.net/anime/37254",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 51764,
+    "title": "Level 1 dakedo Unique Skill de Saikyou desu",
+    "image": "https://cdn.myanimelist.net/images/anime/1579/136295l.jpg",
+    "url": "https://myanimelist.net/anime/51764",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 48633,
+    "title": "Liar Liar",
+    "image": "https://cdn.myanimelist.net/images/anime/1571/134525l.jpg",
+    "url": "https://myanimelist.net/anime/48633",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 30652,
+    "title": "Long Riders!",
+    "image": "https://cdn.myanimelist.net/images/anime/1684/150141l.jpg",
+    "url": "https://myanimelist.net/anime/30652",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 44408,
+    "title": "Long Zu",
+    "image": "https://cdn.myanimelist.net/images/anime/1820/155863l.jpg",
+    "url": "https://myanimelist.net/anime/44408",
+    "score": 9,
+    "status": 2
+  },
+  {
+    "id": 56352,
+    "title": "Loop 7-kaime no Akuyaku Reijou wa, Moto Tekikoku de Jiyuu Kimama na Hanayome Seikatsu wo Mankitsu suru",
+    "image": "https://cdn.myanimelist.net/images/anime/1533/140617l.jpg",
+    "url": "https://myanimelist.net/anime/56352",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 32083,
+    "title": "Luck & Logic",
+    "image": "https://cdn.myanimelist.net/images/anime/5/77134l.jpg",
+    "url": "https://myanimelist.net/anime/32083",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 51458,
+    "title": "Lv1 Maou to One Room Yuusha",
+    "image": "https://cdn.myanimelist.net/images/anime/1879/136721l.jpg",
+    "url": "https://myanimelist.net/anime/51458",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 56923,
+    "title": "Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life",
+    "image": "https://cdn.myanimelist.net/images/anime/1103/142513l.jpg",
+    "url": "https://myanimelist.net/anime/56923",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 62322,
+    "title": "Lv999 no Murabito",
+    "image": "https://cdn.myanimelist.net/images/anime/1366/158400l.jpg",
+    "url": "https://myanimelist.net/anime/62322",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 24455,
+    "title": "Madan no Ou to Vanadis",
+    "image": "https://cdn.myanimelist.net/images/anime/3/64911l.jpg",
+    "url": "https://myanimelist.net/anime/24455",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 56449,
+    "title": "Madougushi Dahliya wa Utsumukanai",
+    "image": "https://cdn.myanimelist.net/images/anime/1572/144060l.jpg",
+    "url": "https://myanimelist.net/anime/56449",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 59265,
+    "title": "Magic Maker: Isekai Mahou no Tsukurikata",
+    "image": "https://cdn.myanimelist.net/images/anime/1802/146725l.jpg",
+    "url": "https://myanimelist.net/anime/59265",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 19769,
+    "title": "Mahou Sensou",
+    "image": "https://cdn.myanimelist.net/images/anime/3/58103l.jpg",
+    "url": "https://myanimelist.net/anime/19769",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 20785,
+    "title": "Mahouka Koukou no Rettousei",
+    "image": "https://cdn.myanimelist.net/images/anime/11/61039l.jpg",
+    "url": "https://myanimelist.net/anime/20785",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 50713,
+    "title": "Mahouka Koukou no Rettousei 3rd Season",
+    "image": "https://cdn.myanimelist.net/images/anime/1100/142255l.jpg",
+    "url": "https://myanimelist.net/anime/50713",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 32900,
+    "title": "Mahouka Koukou no Rettousei Movie: Hoshi wo Yobu Shoujo",
+    "image": "https://cdn.myanimelist.net/images/anime/8/85524l.jpg",
+    "url": "https://myanimelist.net/anime/32900",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 40497,
+    "title": "Mahouka Koukou no Rettousei: Raihousha-hen",
+    "image": "https://cdn.myanimelist.net/images/anime/1322/114329l.jpg",
+    "url": "https://myanimelist.net/anime/40497",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 48375,
+    "title": "Mahouka Koukou no Rettousei: Tsuioku-hen",
+    "image": "https://cdn.myanimelist.net/images/anime/1847/120234l.jpg",
+    "url": "https://myanimelist.net/anime/48375",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 45572,
+    "title": "Mahouka Koukou no Yuutousei",
+    "image": "https://cdn.myanimelist.net/images/anime/1719/116262l.jpg",
+    "url": "https://myanimelist.net/anime/45572",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 48842,
+    "title": "Mahoutsukai Reimeiki",
+    "image": "https://cdn.myanimelist.net/images/anime/1093/121114l.jpg",
+    "url": "https://myanimelist.net/anime/48842",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 62342,
+    "title": "Maid-san wa Taberu dake",
+    "image": "https://cdn.myanimelist.net/images/anime/1175/156007l.jpg",
+    "url": "https://myanimelist.net/anime/62342",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 39196,
+    "title": "Mairimashita! Iruma-kun",
+    "image": "https://cdn.myanimelist.net/images/anime/1009/103187l.jpg",
+    "url": "https://myanimelist.net/anime/39196",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 41402,
+    "title": "Mairimashita! Iruma-kun 2nd Season",
+    "image": "https://cdn.myanimelist.net/images/anime/1527/113656l.jpg",
+    "url": "https://myanimelist.net/anime/41402",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 49784,
+    "title": "Mairimashita! Iruma-kun 3rd Season",
+    "image": "https://cdn.myanimelist.net/images/anime/1688/128720l.jpg",
+    "url": "https://myanimelist.net/anime/49784",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 40571,
+    "title": "Majo no Tabitabi",
+    "image": "https://cdn.myanimelist.net/images/anime/1802/108501l.jpg",
+    "url": "https://myanimelist.net/anime/40571",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 52816,
+    "title": "Majo to Yajuu",
+    "image": "https://cdn.myanimelist.net/images/anime/1380/139745l.jpg",
+    "url": "https://myanimelist.net/anime/52816",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 60810,
+    "title": "Majutsushi Kunon wa Mieteiru",
+    "image": "https://cdn.myanimelist.net/images/anime/1704/154459l.jpg",
+    "url": "https://myanimelist.net/anime/60810",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 57524,
+    "title": "Make Heroine ga Oosugiru!",
+    "image": "https://cdn.myanimelist.net/images/anime/1332/143513l.jpg",
+    "url": "https://myanimelist.net/anime/57524",
+    "score": 9,
+    "status": 2
+  },
+  {
+    "id": 49470,
+    "title": "Mamahaha no Tsurego ga Motokano datta",
+    "image": "https://cdn.myanimelist.net/images/anime/1708/123281l.jpg",
+    "url": "https://myanimelist.net/anime/49470",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 54853,
+    "title": "Maou 2099",
+    "image": "https://cdn.myanimelist.net/images/anime/1675/144605l.jpg",
+    "url": "https://myanimelist.net/anime/54853",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 48417,
+    "title": "Maou Gakuin no Futekigousha II: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou",
+    "image": "https://cdn.myanimelist.net/images/anime/1369/139553l.jpg",
+    "url": "https://myanimelist.net/anime/48417",
+    "score": 5,
+    "status": 2
+  },
+  {
+    "id": 48418,
+    "title": "Maou Gakuin no Futekigousha II: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou Part 2",
+    "image": "https://cdn.myanimelist.net/images/anime/1399/141651l.jpg",
+    "url": "https://myanimelist.net/anime/48418",
+    "score": 3,
+    "status": 2
+  },
+  {
+    "id": 40496,
+    "title": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou",
+    "image": "https://cdn.myanimelist.net/images/anime/1126/108573l.jpg",
+    "url": "https://myanimelist.net/anime/40496",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 53434,
+    "title": "Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?",
+    "image": "https://cdn.myanimelist.net/images/anime/1346/141203l.jpg",
+    "url": "https://myanimelist.net/anime/53434",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 57876,
+    "title": "Maougun Saikyou no Majutsushi wa Ningen datta",
+    "image": "https://cdn.myanimelist.net/images/anime/1814/143744l.jpg",
+    "url": "https://myanimelist.net/anime/57876",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 62983,
+    "title": "Marika-chan no Koukando wa Bukkowareteiru",
+    "image": "https://cdn.myanimelist.net/images/anime/1818/155506l.jpg",
+    "url": "https://myanimelist.net/anime/62983",
+    "score": 5,
+    "status": 2
+  },
+  {
+    "id": 62601,
+    "title": "Marriagetoxin",
+    "image": "https://cdn.myanimelist.net/images/anime/1927/154309l.jpg",
+    "url": "https://myanimelist.net/anime/62601",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 33487,
+    "title": "Masamune-kun no Revenge",
+    "image": "https://cdn.myanimelist.net/images/anime/12/83709l.jpg",
+    "url": "https://myanimelist.net/anime/33487",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 51498,
+    "title": "Masamune-kun no Revenge R",
+    "image": "https://cdn.myanimelist.net/images/anime/1667/135587l.jpg",
+    "url": "https://myanimelist.net/anime/51498",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 52211,
+    "title": "Mashle",
+    "image": "https://cdn.myanimelist.net/images/anime/1218/135107l.jpg",
+    "url": "https://myanimelist.net/anime/52211",
+    "score": 9,
+    "status": 2
+  },
+  {
+    "id": 55339,
+    "title": "Mashle: Mash Burnedead to Fushigi na Tegami",
+    "image": "https://cdn.myanimelist.net/images/anime/1640/154523l.jpg",
+    "url": "https://myanimelist.net/anime/55339",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 55813,
+    "title": "Mashle: Shinkakusha Kouho Senbatsu Shiken-hen",
+    "image": "https://cdn.myanimelist.net/images/anime/1912/140804l.jpg",
+    "url": "https://myanimelist.net/anime/55813",
+    "score": 9,
+    "status": 2
+  },
+  {
+    "id": 62964,
+    "title": "Mata Korosarete Shimatta no desu ne, Tantei-sama",
+    "image": "https://cdn.myanimelist.net/images/anime/1595/156152l.jpg",
+    "url": "https://myanimelist.net/anime/62964",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 50392,
+    "title": "Mato Seihei no Slave",
+    "image": "https://cdn.myanimelist.net/images/anime/1114/140805l.jpg",
+    "url": "https://myanimelist.net/anime/50392",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 59632,
+    "title": "Mattaku Saikin no Tantei to Kitara",
+    "image": "https://cdn.myanimelist.net/images/anime/1323/149460l.jpg",
+    "url": "https://myanimelist.net/anime/59632",
+    "score": 9,
+    "status": 2
+  },
+  {
+    "id": 61211,
+    "title": "Mayonaka Heart Tune",
+    "image": "https://cdn.myanimelist.net/images/anime/1769/152823l.jpg",
+    "url": "https://myanimelist.net/anime/61211",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 63376,
+    "title": "Megami \"Isekai Tensei Nani ni Naritai desu ka\" Ore \"Yuusha no Rokkotsu de\"",
+    "image": "https://cdn.myanimelist.net/images/anime/1228/156696l.jpg",
+    "url": "https://myanimelist.net/anime/63376",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 57315,
+    "title": "Meitou \"Isekai no Yu\" Kaitakuki: Around 40 Onsen Mania no Tensei Saki wa, Nonbiri Onsen Tengoku deshita",
+    "image": "https://cdn.myanimelist.net/images/anime/1502/139926l.jpg",
+    "url": "https://myanimelist.net/anime/57315",
+    "score": 5,
+    "status": 2
+  },
+  {
+    "id": 54794,
+    "title": "Metallic Rouge",
+    "image": "https://cdn.myanimelist.net/images/anime/1859/140210l.jpg",
+    "url": "https://myanimelist.net/anime/54794",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 38778,
+    "title": "Midara na Ao-chan wa Benkyou ga Dekinai",
+    "image": "https://cdn.myanimelist.net/images/anime/1718/98214l.jpg",
+    "url": "https://myanimelist.net/anime/38778",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 48483,
+    "title": "Mieruko-chan",
+    "image": "https://cdn.myanimelist.net/images/anime/1277/117155l.jpg",
+    "url": "https://myanimelist.net/anime/48483",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 50586,
+    "title": "Migi to Dali",
+    "image": "https://cdn.myanimelist.net/images/anime/1845/134817l.jpg",
+    "url": "https://myanimelist.net/anime/50586",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 59207,
+    "title": "Mikadono Sanshimai wa Angai, Choroi.",
+    "image": "https://cdn.myanimelist.net/images/anime/1949/150965l.jpg",
+    "url": "https://myanimelist.net/anime/59207",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 61276,
+    "title": "Mikata ga Yowasugite Hojo Mahou ni Tesshiteita Kyuutei Mahoushi, Tsuihou sarete Saikyou wo Mezasu",
+    "image": "https://cdn.myanimelist.net/images/anime/1732/153360l.jpg",
+    "url": "https://myanimelist.net/anime/61276",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 31422,
+    "title": "Minami Kamakura Koukou Joshi Jitensha-bu",
+    "image": "https://cdn.myanimelist.net/images/anime/10/83345l.jpg",
+    "url": "https://myanimelist.net/anime/31422",
+    "score": 5,
+    "status": 2
+  },
+  {
+    "id": 60732,
+    "title": "Mizu Zokusei no Mahoutsukai",
+    "image": "https://cdn.myanimelist.net/images/anime/1383/151072l.jpg",
+    "url": "https://myanimelist.net/anime/60732",
+    "score": 9,
+    "status": 2
+  },
+  {
+    "id": 57646,
+    "title": "Mob kara Hajimaru Tansaku Eiyuutan",
+    "image": "https://cdn.myanimelist.net/images/anime/1578/143664l.jpg",
+    "url": "https://myanimelist.net/anime/57646",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 32182,
+    "title": "Mob Psycho 100",
+    "image": "https://cdn.myanimelist.net/images/anime/8/80356l.jpg",
+    "url": "https://myanimelist.net/anime/32182",
+    "score": 10,
+    "status": 2
+  },
+  {
+    "id": 37510,
+    "title": "Mob Psycho 100 II",
+    "image": "https://cdn.myanimelist.net/images/anime/1918/96303l.jpg",
+    "url": "https://myanimelist.net/anime/37510",
+    "score": 10,
+    "status": 2
+  },
+  {
+    "id": 50172,
+    "title": "Mob Psycho 100 III",
+    "image": "https://cdn.myanimelist.net/images/anime/1228/125011l.jpg",
+    "url": "https://myanimelist.net/anime/50172",
+    "score": 10,
+    "status": 2
+  },
+  {
+    "id": 55998,
+    "title": "Momochi-san Chi no Ayakashi Ouji",
+    "image": "https://cdn.myanimelist.net/images/anime/1207/140800l.jpg",
+    "url": "https://myanimelist.net/anime/55998",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 40708,
+    "title": "Monster Musume no Oishasan",
+    "image": "https://cdn.myanimelist.net/images/anime/1762/106598l.jpg",
+    "url": "https://myanimelist.net/anime/40708",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 62080,
+    "title": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu",
+    "image": "https://cdn.myanimelist.net/images/anime/1612/158373l.jpg",
+    "url": "https://myanimelist.net/anime/62080",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 41619,
+    "title": "Munou na Nana",
+    "image": "https://cdn.myanimelist.net/images/anime/1301/110433l.jpg",
+    "url": "https://myanimelist.net/anime/41619",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 52080,
+    "title": "Murai no Koi",
+    "image": "https://cdn.myanimelist.net/images/anime/1260/144801l.jpg",
+    "url": "https://myanimelist.net/anime/52080",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 56854,
+    "title": "Mushoku no Eiyuu: Betsu ni Skill Nanka Iranakatta n da ga",
+    "image": "https://cdn.myanimelist.net/images/anime/1721/151097l.jpg",
+    "url": "https://myanimelist.net/anime/56854",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 51179,
+    "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+    "image": "https://cdn.myanimelist.net/images/anime/1898/138005l.jpg",
+    "url": "https://myanimelist.net/anime/51179",
+    "score": 10,
+    "status": 2
+  },
+  {
+    "id": 55818,
+    "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu - Shugo Jutsushi Fitz",
+    "image": "https://cdn.myanimelist.net/images/anime/1627/136934l.jpg",
+    "url": "https://myanimelist.net/anime/55818",
+    "score": 10,
+    "status": 2
+  },
+  {
+    "id": 55888,
+    "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+    "image": "https://cdn.myanimelist.net/images/anime/1876/141251l.jpg",
+    "url": "https://myanimelist.net/anime/55888",
+    "score": 10,
+    "status": 2
+  },
+  {
+    "id": 59193,
+    "title": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+    "image": "https://cdn.myanimelist.net/images/anime/1527/158340l.jpg",
+    "url": "https://myanimelist.net/anime/59193",
+    "score": 9,
+    "status": 2
+  },
+  {
+    "id": 39535,
+    "title": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+    "image": "https://cdn.myanimelist.net/images/anime/1530/117776l.jpg",
+    "url": "https://myanimelist.net/anime/39535",
+    "score": 10,
+    "status": 2
+  },
+  {
+    "id": 50360,
+    "title": "Mushoku Tensei: Isekai Ittara Honki Dasu - Eris no Goblin Toubatsu",
+    "image": "https://cdn.myanimelist.net/images/anime/1094/120148l.jpg",
+    "url": "https://myanimelist.net/anime/50360",
+    "score": 10,
+    "status": 2
+  },
+  {
+    "id": 45576,
+    "title": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+    "image": "https://cdn.myanimelist.net/images/anime/1028/117777l.jpg",
+    "url": "https://myanimelist.net/anime/45576",
+    "score": 10,
+    "status": 2
+  },
+  {
+    "id": 40608,
+    "title": "Muv-Luv Alternative",
+    "image": "https://cdn.myanimelist.net/images/anime/1916/118439l.jpg",
+    "url": "https://myanimelist.net/anime/40608",
+    "score": 5,
+    "status": 2
+  },
+  {
+    "id": 58172,
+    "title": "Nageki no Bourei wa Intai shitai",
+    "image": "https://cdn.myanimelist.net/images/anime/1679/145660l.jpg",
+    "url": "https://myanimelist.net/anime/58172",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 60619,
+    "title": "Nageki no Bourei wa Intai shitai Part 2",
+    "image": "https://cdn.myanimelist.net/images/anime/1651/152063l.jpg",
+    "url": "https://myanimelist.net/anime/60619",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 37926,
+    "title": "Nakanohito Genome [Jikkyouchuu]",
+    "image": "https://cdn.myanimelist.net/images/anime/1725/102251l.jpg",
+    "url": "https://myanimelist.net/anime/37926",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 41168,
+    "title": "Nakitai Watashi wa Neko wo Kaburu",
+    "image": "https://cdn.myanimelist.net/images/anime/1045/106389l.jpg",
+    "url": "https://myanimelist.net/anime/41168",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 50582,
+    "title": "Nanatsu no Maken ga Shihai suru",
+    "image": "https://cdn.myanimelist.net/images/anime/1396/136273l.jpg",
+    "url": "https://myanimelist.net/anime/50582",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 56062,
+    "title": "Naze Boku no Sekai wo Daremo Oboeteinai no ka?",
+    "image": "https://cdn.myanimelist.net/images/anime/1664/144272l.jpg",
+    "url": "https://myanimelist.net/anime/56062",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 59425,
+    "title": "NegaPosi Angler",
+    "image": "https://cdn.myanimelist.net/images/anime/1537/145325l.jpg",
+    "url": "https://myanimelist.net/anime/59425",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 61048,
+    "title": "Neko to Ryuu",
+    "image": "https://cdn.myanimelist.net/images/anime/1878/157796l.jpg",
+    "url": "https://myanimelist.net/anime/61048",
+    "score": 9,
+    "status": 2
+  },
+  {
+    "id": 36038,
+    "title": "Net-juu no Susume",
+    "image": "https://cdn.myanimelist.net/images/anime/3/87463l.jpg",
+    "url": "https://myanimelist.net/anime/36038",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 31404,
+    "title": "Netoge no Yome wa Onnanoko ja Nai to Omotta?",
+    "image": "https://cdn.myanimelist.net/images/anime/3/79414l.jpg",
+    "url": "https://myanimelist.net/anime/31404",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 62893,
+    "title": "Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken",
+    "image": "https://cdn.myanimelist.net/images/anime/1045/157132l.jpg",
+    "url": "https://myanimelist.net/anime/62893",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 54724,
+    "title": "Nige Jouzu no Wakagimi",
+    "image": "https://cdn.myanimelist.net/images/anime/1386/140401l.jpg",
+    "url": "https://myanimelist.net/anime/54724",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 62856,
+    "title": "Nijusseiki Denki Mokuroku: Eureka Evrika",
+    "image": "https://cdn.myanimelist.net/images/anime/1068/158475l.jpg",
+    "url": "https://myanimelist.net/anime/62856",
+    "score": 9,
+    "status": 2
+  },
+  {
+    "id": 56285,
+    "title": "Ninja Kamui",
+    "image": "https://cdn.myanimelist.net/images/anime/1142/141351l.jpg",
+    "url": "https://myanimelist.net/anime/56285",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 59393,
+    "title": "Niwatori Fighter",
+    "image": "https://cdn.myanimelist.net/images/anime/1666/150983l.jpg",
+    "url": "https://myanimelist.net/anime/59393",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 19815,
+    "title": "No Game No Life",
+    "image": "https://cdn.myanimelist.net/images/anime/1074/111944l.jpg",
+    "url": "https://myanimelist.net/anime/19815",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 39539,
+    "title": "No Guns Life",
+    "image": "https://cdn.myanimelist.net/images/anime/1531/102113l.jpg",
+    "url": "https://myanimelist.net/anime/39539",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 20507,
+    "title": "Noragami",
+    "image": "https://cdn.myanimelist.net/images/anime/1886/128266l.jpg",
+    "url": "https://myanimelist.net/anime/20507",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 30503,
+    "title": "Noragami Aragoto",
+    "image": "https://cdn.myanimelist.net/images/anime/1689/94850l.jpg",
+    "url": "https://myanimelist.net/anime/30503",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 30885,
+    "title": "Noragami Aragoto OVA",
+    "image": "https://cdn.myanimelist.net/images/anime/11/77510l.jpg",
+    "url": "https://myanimelist.net/anime/30885",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 20767,
+    "title": "Noragami OVA",
+    "image": "https://cdn.myanimelist.net/images/anime/7/77177l.jpg",
+    "url": "https://myanimelist.net/anime/20767",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 51128,
+    "title": "Noumin Kanren no Skill bakka Agetetara Nazeka Tsuyoku Natta.",
+    "image": "https://cdn.myanimelist.net/images/anime/1384/127328l.jpg",
+    "url": "https://myanimelist.net/anime/51128",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 51648,
+    "title": "Nozomanu Fushi no Boukensha",
+    "image": "https://cdn.myanimelist.net/images/anime/1008/140287l.jpg",
+    "url": "https://myanimelist.net/anime/51648",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 60071,
+    "title": "Odayaka Kizoku no Kyuuka no Susume.",
+    "image": "https://cdn.myanimelist.net/images/anime/1968/152396l.jpg",
+    "url": "https://myanimelist.net/anime/60071",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 53149,
+    "title": "Oemojisangjuui",
+    "image": "https://cdn.myanimelist.net/images/anime/1456/131788l.jpg",
+    "url": "https://myanimelist.net/anime/53149",
+    "score": 9,
+    "status": 2
+  },
+  {
+    "id": 53300,
+    "title": "Ojou to Banken-kun",
+    "image": "https://cdn.myanimelist.net/images/anime/1016/139805l.jpg",
+    "url": "https://myanimelist.net/anime/53300",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 52611,
+    "title": "Okashi na Tensei",
+    "image": "https://cdn.myanimelist.net/images/anime/1251/136232l.jpg",
+    "url": "https://myanimelist.net/anime/52611",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 61549,
+    "title": "Okiraku Ryoushu no Tanoshii Ryouchi Bouei: Seisankei Majutsu de Na mo Naki Mura wo Saikyou no Jousai Toshi ni",
+    "image": "https://cdn.myanimelist.net/images/anime/1264/153908l.jpg",
+    "url": "https://myanimelist.net/anime/61549",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 30276,
+    "title": "One Punch Man",
+    "image": "https://cdn.myanimelist.net/images/anime/12/76049l.jpg",
+    "url": "https://myanimelist.net/anime/30276",
+    "score": 10,
+    "status": 2
+  },
+  {
+    "id": 34134,
+    "title": "One Punch Man 2nd Season",
+    "image": "https://cdn.myanimelist.net/images/anime/1247/122044l.jpg",
+    "url": "https://myanimelist.net/anime/34134",
+    "score": 9,
+    "status": 2
+  },
+  {
+    "id": 52807,
+    "title": "One Punch Man 3",
+    "image": "https://cdn.myanimelist.net/images/anime/1168/148347l.jpg",
+    "url": "https://myanimelist.net/anime/52807",
+    "score": 5,
+    "status": 2
+  },
+  {
+    "id": 56838,
+    "title": "One Room, Hiatari Futsuu, Tenshi-tsuki.",
+    "image": "https://cdn.myanimelist.net/images/anime/1833/141321l.jpg",
+    "url": "https://myanimelist.net/anime/56838",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 61814,
+    "title": "Oni no Hanayome",
+    "image": "https://cdn.myanimelist.net/images/anime/1082/158708l.jpg",
+    "url": "https://myanimelist.net/anime/61814",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 51122,
+    "title": "Ookami to Koushinryou: Merchant Meets the Wise Wolf",
+    "image": "https://cdn.myanimelist.net/images/anime/1059/142414l.jpg",
+    "url": "https://myanimelist.net/anime/51122",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 41899,
+    "title": "Ore dake Haireru Kakushi Dungeon",
+    "image": "https://cdn.myanimelist.net/images/anime/1988/115708l.jpg",
+    "url": "https://myanimelist.net/anime/41899",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 52299,
+    "title": "Ore dake Level Up na Ken",
+    "image": "https://cdn.myanimelist.net/images/anime/1801/142390l.jpg",
+    "url": "https://myanimelist.net/anime/52299",
+    "score": 10,
+    "status": 2
+  },
+  {
+    "id": 58567,
+    "title": "Ore dake Level Up na Ken Season 2: Arise from the Shadow",
+    "image": "https://cdn.myanimelist.net/images/anime/1448/147351l.jpg",
+    "url": "https://myanimelist.net/anime/58567",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 59841,
+    "title": "Ore dake Level Up na Ken: ReAwakening",
+    "image": "https://cdn.myanimelist.net/images/anime/1983/146190l.jpg",
+    "url": "https://myanimelist.net/anime/59841",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 60154,
+    "title": "Ore wa Seikan Kokka no Akutoku Ryoushu!",
+    "image": "https://cdn.myanimelist.net/images/anime/1703/148600l.jpg",
+    "url": "https://myanimelist.net/anime/60154",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 57058,
+    "title": "Ore wa Subete wo \"Parry\" suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai",
+    "image": "https://cdn.myanimelist.net/images/anime/1747/143101l.jpg",
+    "url": "https://myanimelist.net/anime/57058",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 55129,
+    "title": "Oroka na Tenshi wa Akuma to Odoru",
+    "image": "https://cdn.myanimelist.net/images/anime/1902/139271l.jpg",
+    "url": "https://myanimelist.net/anime/55129",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 43007,
+    "title": "Osananajimi ga Zettai ni Makenai Love Comedy",
+    "image": "https://cdn.myanimelist.net/images/anime/1111/113327l.jpg",
+    "url": "https://myanimelist.net/anime/43007",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 61359,
+    "title": "Osananajimi to wa Love Comedy ni Naranai",
+    "image": "https://cdn.myanimelist.net/images/anime/1729/153502l.jpg",
+    "url": "https://myanimelist.net/anime/61359",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 62604,
+    "title": "Otaku ni Yasashii Gal wa Inai!?",
+    "image": "https://cdn.myanimelist.net/images/anime/1956/155456l.jpg",
+    "url": "https://myanimelist.net/anime/62604",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 38555,
+    "title": "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta...",
+    "image": "https://cdn.myanimelist.net/images/anime/1483/107061l.jpg",
+    "url": "https://myanimelist.net/anime/38555",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 42282,
+    "title": "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta... X",
+    "image": "https://cdn.myanimelist.net/images/anime/1088/116439l.jpg",
+    "url": "https://myanimelist.net/anime/42282",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 63150,
+    "title": "Otome Kaijuu Caraméliser",
+    "image": "https://cdn.myanimelist.net/images/anime/1981/156340l.jpg",
+    "url": "https://myanimelist.net/anime/63150",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 50739,
+    "title": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken",
+    "image": "https://cdn.myanimelist.net/images/anime/1240/133638l.jpg",
+    "url": "https://myanimelist.net/anime/50739",
+    "score": 10,
+    "status": 2
+  },
+  {
+    "id": 56876,
+    "title": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2",
+    "image": "https://cdn.myanimelist.net/images/anime/1989/154843l.jpg",
+    "url": "https://myanimelist.net/anime/56876",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 57944,
+    "title": "Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki",
+    "image": "https://cdn.myanimelist.net/images/anime/1432/141123l.jpg",
+    "url": "https://myanimelist.net/anime/57944",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 44961,
+    "title": "Platinum End",
+    "image": "https://cdn.myanimelist.net/images/anime/1992/116576l.jpg",
+    "url": "https://myanimelist.net/anime/44961",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 37345,
+    "title": "Plunderer",
+    "image": "https://cdn.myanimelist.net/images/anime/1534/104784l.jpg",
+    "url": "https://myanimelist.net/anime/37345",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 61425,
+    "title": "Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi",
+    "image": "https://cdn.myanimelist.net/images/anime/1484/155726l.jpg",
+    "url": "https://myanimelist.net/anime/61425",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 54616,
+    "title": "Potion-danomi de Ikinobimasu!",
+    "image": "https://cdn.myanimelist.net/images/anime/1182/138184l.jpg",
+    "url": "https://myanimelist.net/anime/54616",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 42825,
+    "title": "Project Scard: Praeter no Kizu",
+    "image": "https://cdn.myanimelist.net/images/anime/1239/111647l.jpg",
+    "url": "https://myanimelist.net/anime/42825",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 32360,
+    "title": "Qualidea Code",
+    "image": "https://cdn.myanimelist.net/images/anime/6/80823l.jpg",
+    "url": "https://myanimelist.net/anime/32360",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 34300,
+    "title": "Quanzhi Fashi",
+    "image": "https://cdn.myanimelist.net/images/anime/1248/153777l.jpg",
+    "url": "https://myanimelist.net/anime/34300",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 36318,
+    "title": "Quanzhi Fashi II",
+    "image": "https://cdn.myanimelist.net/images/anime/4/87726l.jpg",
+    "url": "https://myanimelist.net/anime/36318",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 38528,
+    "title": "Quanzhi Fashi III",
+    "image": "https://cdn.myanimelist.net/images/anime/1375/158075l.jpg",
+    "url": "https://myanimelist.net/anime/38528",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 40005,
+    "title": "Quanzhi Fashi IV",
+    "image": "https://cdn.myanimelist.net/images/anime/1925/105375l.jpg",
+    "url": "https://myanimelist.net/anime/40005",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 48941,
+    "title": "Quanzhi Fashi V",
+    "image": "https://cdn.myanimelist.net/images/anime/1974/114887l.jpg",
+    "url": "https://myanimelist.net/anime/48941",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 49572,
+    "title": "Quanzhi Fashi VI",
+    "image": "https://cdn.myanimelist.net/images/anime/1695/155861l.jpg",
+    "url": "https://myanimelist.net/anime/49572",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 51297,
+    "title": "Ragna Crimson",
+    "image": "https://cdn.myanimelist.net/images/anime/1763/140359l.jpg",
+    "url": "https://myanimelist.net/anime/51297",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 56964,
+    "title": "Raise wa Tanin ga Ii",
+    "image": "https://cdn.myanimelist.net/images/anime/1428/143773l.jpg",
+    "url": "https://myanimelist.net/anime/56964",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 63508,
+    "title": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku",
+    "image": "https://cdn.myanimelist.net/images/anime/1319/158376l.jpg",
+    "url": "https://myanimelist.net/anime/63508",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 30296,
+    "title": "Rakudai Kishi no Cavalry",
+    "image": "https://cdn.myanimelist.net/images/anime/9/76493l.jpg",
+    "url": "https://myanimelist.net/anime/30296",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 56690,
+    "title": "Re:Monster",
+    "image": "https://cdn.myanimelist.net/images/anime/1523/141680l.jpg",
+    "url": "https://myanimelist.net/anime/56690",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 31240,
+    "title": "Re:Zero kara Hajimeru Isekai Seikatsu",
+    "image": "https://cdn.myanimelist.net/images/anime/1522/128039l.jpg",
+    "url": "https://myanimelist.net/anime/31240",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 38414,
+    "title": "Re:Zero kara Hajimeru Isekai Seikatsu - Hyouketsu no Kizuna",
+    "image": "https://cdn.myanimelist.net/images/anime/1238/104023l.jpg",
+    "url": "https://myanimelist.net/anime/38414",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 41590,
+    "title": "Re:Zero kara Hajimeru Isekai Seikatsu - Hyouketsu no Kizuna - Manner Movie",
+    "image": "https://cdn.myanimelist.net/images/anime/1599/106827l.jpg",
+    "url": "https://myanimelist.net/anime/41590",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 39587,
+    "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
+    "image": "https://cdn.myanimelist.net/images/anime/1444/108005l.jpg",
+    "url": "https://myanimelist.net/anime/39587",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 42203,
+    "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
+    "image": "https://cdn.myanimelist.net/images/anime/1724/117421l.jpg",
+    "url": "https://myanimelist.net/anime/42203",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 59443,
+    "title": "Reincarnation no Kaben",
+    "image": "https://cdn.myanimelist.net/images/anime/1064/155042l.jpg",
+    "url": "https://myanimelist.net/anime/59443",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 56228,
+    "title": "Rekishi ni Nokoru Akujo ni Naru zo",
+    "image": "https://cdn.myanimelist.net/images/anime/1005/145339l.jpg",
+    "url": "https://myanimelist.net/anime/56228",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 61013,
+    "title": "Replica datte, Koi wo Suru.",
+    "image": "https://cdn.myanimelist.net/images/anime/1148/155671l.jpg",
+    "url": "https://myanimelist.net/anime/61013",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 32951,
+    "title": "Rokudenashi Majutsu Koushi to Akashic Records",
+    "image": "https://cdn.myanimelist.net/images/anime/8/85593l.jpg",
+    "url": "https://myanimelist.net/anime/32951",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 62078,
+    "title": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
+    "image": "https://cdn.myanimelist.net/images/anime/1891/158566l.jpg",
+    "url": "https://myanimelist.net/anime/62078",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 35905,
+    "title": "Ryuuou no Oshigoto!",
+    "image": "https://cdn.myanimelist.net/images/anime/12/89979l.jpg",
+    "url": "https://myanimelist.net/anime/35905",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 54760,
+    "title": "Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega",
+    "image": "https://cdn.myanimelist.net/images/anime/1079/136949l.jpg",
+    "url": "https://myanimelist.net/anime/54760",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 58473,
+    "title": "S-Rank Monster no \"Behemoth\" dakedo, Neko to Machigawarete Elf Musume no Pet toshite Kurashitemasu",
+    "image": "https://cdn.myanimelist.net/images/anime/1656/146916l.jpg",
+    "url": "https://myanimelist.net/anime/58473",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 48414,
+    "title": "Sabikui Bisco",
+    "image": "https://cdn.myanimelist.net/images/anime/1446/118840l.jpg",
+    "url": "https://myanimelist.net/anime/48414",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 59846,
+    "title": "Saigo ni Hitotsu dake Onegai shitemo Yoroshii deshou ka",
+    "image": "https://cdn.myanimelist.net/images/anime/1190/151754l.jpg",
+    "url": "https://myanimelist.net/anime/59846",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 48761,
+    "title": "Saihate no Paladin",
+    "image": "https://cdn.myanimelist.net/images/anime/1176/118382l.jpg",
+    "url": "https://myanimelist.net/anime/48761",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 50664,
+    "title": "Saihate no Paladin: Tetsusabi no Yama no Ou",
+    "image": "https://cdn.myanimelist.net/images/anime/1031/138515l.jpg",
+    "url": "https://myanimelist.net/anime/50664",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 53590,
+    "title": "Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita.",
+    "image": "https://cdn.myanimelist.net/images/anime/1280/138474l.jpg",
+    "url": "https://myanimelist.net/anime/53590",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 62876,
+    "title": "Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojousama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita",
+    "image": "https://cdn.myanimelist.net/images/anime/1116/157083l.jpg",
+    "url": "https://myanimelist.net/anime/62876",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 56736,
+    "title": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi",
+    "image": "https://cdn.myanimelist.net/images/anime/1529/158522l.jpg",
+    "url": "https://myanimelist.net/anime/56736",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 60146,
+    "title": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?",
+    "image": "https://cdn.myanimelist.net/images/anime/1712/148299l.jpg",
+    "url": "https://myanimelist.net/anime/60146",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 61831,
+    "title": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2",
+    "image": "https://cdn.myanimelist.net/images/anime/1738/156028l.jpg",
+    "url": "https://myanimelist.net/anime/61831",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 58714,
+    "title": "Saikyou no Shienshoku \"Wajutsushi\" de Aru Ore wa Sekai Saikyou Clan wo Shitagaeru",
+    "image": "https://cdn.myanimelist.net/images/anime/1683/145446l.jpg",
+    "url": "https://myanimelist.net/anime/58714",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 62825,
+    "title": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?",
+    "image": "https://cdn.myanimelist.net/images/anime/1632/155095l.jpg",
+    "url": "https://myanimelist.net/anime/62825",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 50932,
+    "title": "Saikyou Onmyouji no Isekai Tenseiki",
+    "image": "https://cdn.myanimelist.net/images/anime/1547/125900l.jpg",
+    "url": "https://myanimelist.net/anime/50932",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 56845,
+    "title": "Saikyou Tank no Meikyuu Kouryaku: Tairyoku 9999 no Rare Skill-mochi Tank, Yuusha Party wo Tsuihou sareru",
+    "image": "https://cdn.myanimelist.net/images/anime/1384/140829l.jpg",
+    "url": "https://myanimelist.net/anime/56845",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 130,
+    "title": "Saiyuuki Reload",
+    "image": "https://cdn.myanimelist.net/images/anime/13/24719l.jpg",
+    "url": "https://myanimelist.net/anime/130",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 33726,
+    "title": "Saiyuuki Reload Blast",
+    "image": "https://cdn.myanimelist.net/images/anime/11/86675l.jpg",
+    "url": "https://myanimelist.net/anime/33726",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 45783,
+    "title": "Saiyuuki Reload: Zeroin",
+    "image": "https://cdn.myanimelist.net/images/anime/1451/119862l.jpg",
+    "url": "https://myanimelist.net/anime/45783",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 58939,
+    "title": "Sakamoto Days",
+    "image": "https://cdn.myanimelist.net/images/anime/1026/146459l.jpg",
+    "url": "https://myanimelist.net/anime/58939",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 60285,
+    "title": "Sakamoto Days Part 2",
+    "image": "https://cdn.myanimelist.net/images/anime/1758/148719l.jpg",
+    "url": "https://myanimelist.net/anime/60285",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 59349,
+    "title": "Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi",
+    "image": "https://cdn.myanimelist.net/images/anime/1668/144352l.jpg",
+    "url": "https://myanimelist.net/anime/59349",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 58445,
+    "title": "Sayounara Ryuusei, Konnichiwa Jinsei",
+    "image": "https://cdn.myanimelist.net/images/anime/1225/144606l.jpg",
+    "url": "https://myanimelist.net/anime/58445",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 48492,
+    "title": "Scarlet Nexus",
+    "image": "https://cdn.myanimelist.net/images/anime/1314/116004l.jpg",
+    "url": "https://myanimelist.net/anime/48492",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 60371,
+    "title": "Seihantai na Kimi to Boku",
+    "image": "https://cdn.myanimelist.net/images/anime/1140/154457l.jpg",
+    "url": "https://myanimelist.net/anime/60371",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 53263,
+    "title": "Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi",
+    "image": "https://cdn.myanimelist.net/images/anime/1490/137816l.jpg",
+    "url": "https://myanimelist.net/anime/53263",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 42826,
+    "title": "Seijo no Maryoku wa Bannou desu",
+    "image": "https://cdn.myanimelist.net/images/anime/1947/114235l.jpg",
+    "url": "https://myanimelist.net/anime/42826",
+    "score": 9,
+    "status": 2
+  },
+  {
+    "id": 51215,
+    "title": "Seijo no Maryoku wa Bannou desu Season 2",
+    "image": "https://cdn.myanimelist.net/images/anime/1077/136855l.jpg",
+    "url": "https://myanimelist.net/anime/51215",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 50184,
+    "title": "Seiken Gakuin no Makentsukai",
+    "image": "https://cdn.myanimelist.net/images/anime/1506/138529l.jpg",
+    "url": "https://myanimelist.net/anime/50184",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 21033,
+    "title": "Seikoku no Dragonar",
+    "image": "https://cdn.myanimelist.net/images/anime/13/56419l.jpg",
+    "url": "https://myanimelist.net/anime/21033",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 44203,
+    "title": "Seirei Gensouki",
+    "image": "https://cdn.myanimelist.net/images/anime/1836/116060l.jpg",
+    "url": "https://myanimelist.net/anime/44203",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 50306,
+    "title": "Seirei Gensouki 2",
+    "image": "https://cdn.myanimelist.net/images/anime/1087/144583l.jpg",
+    "url": "https://myanimelist.net/anime/50306",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 33836,
+    "title": "Seiren",
+    "image": "https://cdn.myanimelist.net/images/anime/1465/121561l.jpg",
+    "url": "https://myanimelist.net/anime/33836",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 37450,
+    "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+    "image": "https://cdn.myanimelist.net/images/anime/1301/93586l.jpg",
+    "url": "https://myanimelist.net/anime/37450",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 47790,
+    "title": "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru",
+    "image": "https://cdn.myanimelist.net/images/anime/1928/117620l.jpg",
+    "url": "https://myanimelist.net/anime/47790",
+    "score": 9,
+    "status": 2
+  },
+  {
+    "id": 62435,
+    "title": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
+    "image": "https://cdn.myanimelist.net/images/anime/1380/157378l.jpg",
+    "url": "https://myanimelist.net/anime/62435",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 44275,
+    "title": "Selection Project",
+    "image": "https://cdn.myanimelist.net/images/anime/1174/113554l.jpg",
+    "url": "https://myanimelist.net/anime/44275",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 42351,
+    "title": "Senpai ga Uzai Kouhai no Hanashi",
+    "image": "https://cdn.myanimelist.net/images/anime/1055/118890l.jpg",
+    "url": "https://myanimelist.net/anime/42351",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 38787,
+    "title": "Senryuu Shoujo",
+    "image": "https://cdn.myanimelist.net/images/anime/1751/98216l.jpg",
+    "url": "https://myanimelist.net/anime/38787",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 41456,
+    "title": "Sentouin, Haken shimasu!",
+    "image": "https://cdn.myanimelist.net/images/anime/1444/115118l.jpg",
+    "url": "https://myanimelist.net/anime/41456",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 31229,
+    "title": "Servamp",
+    "image": "https://cdn.myanimelist.net/images/anime/8/80953l.jpg",
+    "url": "https://myanimelist.net/anime/31229",
+    "score": 5,
+    "status": 2
+  },
+  {
+    "id": 47391,
+    "title": "Seven Knights Revolution: Eiyuu no Keishousha",
+    "image": "https://cdn.myanimelist.net/images/anime/1079/114017l.jpg",
+    "url": "https://myanimelist.net/anime/47391",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 38759,
+    "title": "Sewayaki Kitsune no Senko-san",
+    "image": "https://cdn.myanimelist.net/images/anime/1814/99677l.jpg",
+    "url": "https://myanimelist.net/anime/38759",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 40783,
+    "title": "Shachou, Battle no Jikan desu!",
+    "image": "https://cdn.myanimelist.net/images/anime/1044/106309l.jpg",
+    "url": "https://myanimelist.net/anime/40783",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 52347,
+    "title": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su",
+    "image": "https://cdn.myanimelist.net/images/anime/1500/139931l.jpg",
+    "url": "https://myanimelist.net/anime/52347",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 58572,
+    "title": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su 2nd Season",
+    "image": "https://cdn.myanimelist.net/images/anime/1996/147601l.jpg",
+    "url": "https://myanimelist.net/anime/58572",
+    "score": 9,
+    "status": 2
+  },
+  {
+    "id": 50421,
+    "title": "Shi Cao Lao Long Bei Guan Yi E Long Zhi Ming",
+    "image": "https://cdn.myanimelist.net/images/anime/1181/127617l.jpg",
+    "url": "https://myanimelist.net/anime/50421",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 58779,
+    "title": "Shi Cao Lao Long Bei Guan Yi E Long Zhi Ming 2nd Season",
+    "image": "https://cdn.myanimelist.net/images/anime/1294/145877l.jpg",
+    "url": "https://myanimelist.net/anime/58779",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 48415,
+    "title": "Shijou Saikyou no Daimaou, Murabito A ni Tensei suru",
+    "image": "https://cdn.myanimelist.net/images/anime/1904/120095l.jpg",
+    "url": "https://myanimelist.net/anime/48415",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 47161,
+    "title": "Shikkakumon no Saikyou Kenja",
+    "image": "https://cdn.myanimelist.net/images/anime/1132/120388l.jpg",
+    "url": "https://myanimelist.net/anime/47161",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 29786,
+    "title": "Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai",
+    "image": "https://cdn.myanimelist.net/images/anime/6/75106l.jpg",
+    "url": "https://myanimelist.net/anime/29786",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 44037,
+    "title": "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita",
+    "image": "https://cdn.myanimelist.net/images/anime/1723/117854l.jpg",
+    "url": "https://myanimelist.net/anime/44037",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 53488,
+    "title": "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita 2nd",
+    "image": "https://cdn.myanimelist.net/images/anime/1873/139792l.jpg",
+    "url": "https://myanimelist.net/anime/53488",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 38659,
+    "title": "Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru",
+    "image": "https://cdn.myanimelist.net/images/anime/1715/103419l.jpg",
+    "url": "https://myanimelist.net/anime/38659",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 21843,
+    "title": "Shingeki no Bahamut: Genesis",
+    "image": "https://cdn.myanimelist.net/images/anime/2/67513l.jpg",
+    "url": "https://myanimelist.net/anime/21843",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 60303,
+    "title": "Shinjiteita Nakama-tachi ni Dungeon Okuchi de Korosarekaketa ga Gift \"Mugen Gacha\" de Level 9999 no Nakama-tachi wo Te ni Irete Moto Party Member to Sekai ni Fukushuu & \"Zamaa!\" Shimasu!",
+    "image": "https://cdn.myanimelist.net/images/anime/1163/151246l.jpg",
+    "url": "https://myanimelist.net/anime/60303",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 46985,
+    "title": "Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei",
+    "image": "https://cdn.myanimelist.net/images/anime/1537/117590l.jpg",
+    "url": "https://myanimelist.net/anime/46985",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 54913,
+    "title": "Shinmai Ossan Boukensha, Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru.",
+    "image": "https://cdn.myanimelist.net/images/anime/1212/144711l.jpg",
+    "url": "https://myanimelist.net/anime/54913",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 52082,
+    "title": "Shiro Seijo to Kuro Bokushi",
+    "image": "https://cdn.myanimelist.net/images/anime/1329/135096l.jpg",
+    "url": "https://myanimelist.net/anime/52082",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 46093,
+    "title": "Shiroi Suna no Aquatope",
+    "image": "https://cdn.myanimelist.net/images/anime/1932/114952l.jpg",
+    "url": "https://myanimelist.net/anime/46093",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 38843,
+    "title": "Shironeko Project: Zero Chronicle",
+    "image": "https://cdn.myanimelist.net/images/anime/1072/111360l.jpg",
+    "url": "https://myanimelist.net/anime/38843",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 58131,
+    "title": "Shiunji-ke no Kodomotachi",
+    "image": "https://cdn.myanimelist.net/images/anime/1955/148360l.jpg",
+    "url": "https://myanimelist.net/anime/58131",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 57810,
+    "title": "Shoushimin Series",
+    "image": "https://cdn.myanimelist.net/images/anime/1164/143459l.jpg",
+    "url": "https://myanimelist.net/anime/57810",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 61443,
+    "title": "Shunkashuutou Daikousha: Haru no Mai",
+    "image": "https://cdn.myanimelist.net/images/anime/1993/156385l.jpg",
+    "url": "https://myanimelist.net/anime/61443",
+    "score": 9,
+    "status": 2
+  },
+  {
+    "id": 33502,
+    "title": "Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?",
+    "image": "https://cdn.myanimelist.net/images/anime/4/85260l.jpg",
+    "url": "https://myanimelist.net/anime/33502",
+    "score": 9,
+    "status": 2
+  },
+  {
+    "id": 53356,
+    "title": "Shuumatsu Train Doko e Iku?",
+    "image": "https://cdn.myanimelist.net/images/anime/1224/137451l.jpg",
+    "url": "https://myanimelist.net/anime/53356",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 53237,
+    "title": "Shy",
+    "image": "https://cdn.myanimelist.net/images/anime/1114/136742l.jpg",
+    "url": "https://myanimelist.net/anime/53237",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 57567,
+    "title": "Shy 2nd Season",
+    "image": "https://cdn.myanimelist.net/images/anime/1518/143558l.jpg",
+    "url": "https://myanimelist.net/anime/57567",
+    "score": 4,
+    "status": 2
+  },
+  {
+    "id": 55578,
+    "title": "Si Ge Yongzhe",
+    "image": "https://cdn.myanimelist.net/images/anime/1319/136330l.jpg",
+    "url": "https://myanimelist.net/anime/55578",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 59459,
+    "title": "Silent Witch: Chinmoku no Majo no Kakushigoto",
+    "image": "https://cdn.myanimelist.net/images/anime/1669/149732l.jpg",
+    "url": "https://myanimelist.net/anime/59459",
+    "score": 9,
+    "status": 2
+  },
+  {
+    "id": 50416,
+    "title": "Skip to Loafer",
+    "image": "https://cdn.myanimelist.net/images/anime/1518/138730l.jpg",
+    "url": "https://myanimelist.net/anime/50416",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 40586,
+    "title": "Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita",
+    "image": "https://cdn.myanimelist.net/images/anime/1888/133089l.jpg",
+    "url": "https://myanimelist.net/anime/40586",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 62068,
+    "title": "Snowball Earth",
+    "image": "https://cdn.myanimelist.net/images/anime/1786/156390l.jpg",
+    "url": "https://myanimelist.net/anime/62068",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 53730,
+    "title": "Sokushi Cheat ga Saikyou sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga.",
+    "image": "https://cdn.myanimelist.net/images/anime/1734/139673l.jpg",
+    "url": "https://myanimelist.net/anime/53730",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 48849,
+    "title": "Sonny Boy",
+    "image": "https://cdn.myanimelist.net/images/anime/1509/117149l.jpg",
+    "url": "https://myanimelist.net/anime/48849",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 33668,
+    "title": "Soushin Shoujo Matoi",
+    "image": "https://cdn.myanimelist.net/images/anime/6/83224l.jpg",
+    "url": "https://myanimelist.net/anime/33668",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 52991,
+    "title": "Sousou no Frieren",
+    "image": "https://cdn.myanimelist.net/images/anime/1015/138006l.jpg",
+    "url": "https://myanimelist.net/anime/52991",
+    "score": 10,
+    "status": 2
+  },
+  {
+    "id": 59978,
+    "title": "Sousou no Frieren 2nd Season",
+    "image": "https://cdn.myanimelist.net/images/anime/1921/154528l.jpg",
+    "url": "https://myanimelist.net/anime/59978",
+    "score": 10,
+    "status": 2
+  },
+  {
+    "id": 61174,
+    "title": "Sozai Saishuka no Isekai Ryokouki",
+    "image": "https://cdn.myanimelist.net/images/anime/1289/151136l.jpg",
+    "url": "https://myanimelist.net/anime/61174",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 50265,
+    "title": "Spy x Family",
+    "image": "https://cdn.myanimelist.net/images/anime/1441/122795l.jpg",
+    "url": "https://myanimelist.net/anime/50265",
+    "score": 9,
+    "status": 2
+  },
+  {
+    "id": 53888,
+    "title": "Spy x Family Movie: Code: White",
+    "image": "https://cdn.myanimelist.net/images/anime/1426/139388l.jpg",
+    "url": "https://myanimelist.net/anime/53888",
+    "score": 9,
+    "status": 2
+  },
+  {
+    "id": 58159,
+    "title": "Spy x Family Movie: Code: White Manner Movie",
+    "image": "https://cdn.myanimelist.net/images/anime/1567/141475l.jpg",
+    "url": "https://myanimelist.net/anime/58159",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 50602,
+    "title": "Spy x Family Part 2",
+    "image": "https://cdn.myanimelist.net/images/anime/1111/127508l.jpg",
+    "url": "https://myanimelist.net/anime/50602",
+    "score": 9,
+    "status": 2
+  },
+  {
+    "id": 53887,
+    "title": "Spy x Family Season 2",
+    "image": "https://cdn.myanimelist.net/images/anime/1506/138982l.jpg",
+    "url": "https://myanimelist.net/anime/53887",
+    "score": 9,
+    "status": 2
+  },
+  {
+    "id": 59027,
+    "title": "Spy x Family Season 3",
+    "image": "https://cdn.myanimelist.net/images/anime/1697/151793l.jpg",
+    "url": "https://myanimelist.net/anime/59027",
+    "score": 9,
+    "status": 2
+  },
+  {
+    "id": 49980,
+    "title": "Sugar Apple Fairy Tale",
+    "image": "https://cdn.myanimelist.net/images/anime/1897/131300l.jpg",
+    "url": "https://myanimelist.net/anime/49980",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 54842,
+    "title": "Sugar Apple Fairy Tale Part 2",
+    "image": "https://cdn.myanimelist.net/images/anime/1693/138042l.jpg",
+    "url": "https://myanimelist.net/anime/54842",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 54234,
+    "title": "Suki na Ko ga Megane wo Wasureta",
+    "image": "https://cdn.myanimelist.net/images/anime/1582/136325l.jpg",
+    "url": "https://myanimelist.net/anime/54234",
+    "score": 9,
+    "status": 2
+  },
+  {
+    "id": 40685,
+    "title": "Super Cub",
+    "image": "https://cdn.myanimelist.net/images/anime/1776/111172l.jpg",
+    "url": "https://myanimelist.net/anime/40685",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 62076,
+    "title": "Super no Ura de Yani Suu Futari",
+    "image": "https://cdn.myanimelist.net/images/anime/1768/156339l.jpg",
+    "url": "https://myanimelist.net/anime/62076",
+    "score": 9,
+    "status": 2
+  },
+  {
+    "id": 63752,
+    "title": "Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping Car wo Shoukan shimashita",
+    "image": "https://cdn.myanimelist.net/images/anime/1417/157798l.jpg",
+    "url": "https://myanimelist.net/anime/63752",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 29758,
+    "title": "Taboo Tattoo",
+    "image": "https://cdn.myanimelist.net/images/anime/12/80197l.jpg",
+    "url": "https://myanimelist.net/anime/29758",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 36470,
+    "title": "Tada-kun wa Koi wo Shinai",
+    "image": "https://cdn.myanimelist.net/images/anime/1446/91841l.jpg",
+    "url": "https://myanimelist.net/anime/36470",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 63014,
+    "title": "Tadaima, Ojamasaremasu!",
+    "image": "https://cdn.myanimelist.net/images/anime/1199/156106l.jpg",
+    "url": "https://myanimelist.net/anime/63014",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 60969,
+    "title": "Taiyou yori mo Mabushii Hoshi",
+    "image": "https://cdn.myanimelist.net/images/anime/1475/152176l.jpg",
+    "url": "https://myanimelist.net/anime/60969",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 60489,
+    "title": "Takopii no Genzai",
+    "image": "https://cdn.myanimelist.net/images/anime/1182/149879l.jpg",
+    "url": "https://myanimelist.net/anime/60489",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 48556,
+    "title": "Takt Op. Destiny",
+    "image": "https://cdn.myanimelist.net/images/anime/1449/117797l.jpg",
+    "url": "https://myanimelist.net/anime/48556",
+    "score": 9,
+    "status": 2
+  },
+  {
+    "id": 59047,
+    "title": "Tamon-kun Ima Docchi!?",
+    "image": "https://cdn.myanimelist.net/images/anime/1474/153320l.jpg",
+    "url": "https://myanimelist.net/anime/59047",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 46471,
+    "title": "Tantei wa Mou, Shindeiru.",
+    "image": "https://cdn.myanimelist.net/images/anime/1843/115815l.jpg",
+    "url": "https://myanimelist.net/anime/46471",
+    "score": 9,
+    "status": 2
+  },
+  {
+    "id": 35790,
+    "title": "Tate no Yuusha no Nariagari",
+    "image": "https://cdn.myanimelist.net/images/anime/1490/101365l.jpg",
+    "url": "https://myanimelist.net/anime/35790",
+    "score": 10,
+    "status": 2
+  },
+  {
+    "id": 40356,
+    "title": "Tate no Yuusha no Nariagari Season 2",
+    "image": "https://cdn.myanimelist.net/images/anime/1143/121873l.jpg",
+    "url": "https://myanimelist.net/anime/40356",
+    "score": 9,
+    "status": 2
+  },
+  {
+    "id": 40357,
+    "title": "Tate no Yuusha no Nariagari Season 3",
+    "image": "https://cdn.myanimelist.net/images/anime/1317/139802l.jpg",
+    "url": "https://myanimelist.net/anime/40357",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 40594,
+    "title": "Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari",
+    "image": "https://cdn.myanimelist.net/images/anime/1512/111549l.jpg",
+    "url": "https://myanimelist.net/anime/40594",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 52962,
+    "title": "Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story",
+    "image": "https://cdn.myanimelist.net/images/anime/1901/139910l.jpg",
+    "url": "https://myanimelist.net/anime/52962",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 62476,
+    "title": "Tefuda ga Oome no Victoria",
+    "image": "https://cdn.myanimelist.net/images/anime/1098/158743l.jpg",
+    "url": "https://myanimelist.net/anime/62476",
+    "score": 9,
+    "status": 2
+  },
+  {
+    "id": 54275,
+    "title": "Temple",
+    "image": "https://cdn.myanimelist.net/images/anime/1879/136896l.jpg",
+    "url": "https://myanimelist.net/anime/54275",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 41762,
+    "title": "Tenchi Souzou Design-bu",
+    "image": "https://cdn.myanimelist.net/images/anime/1339/113938l.jpg",
+    "url": "https://myanimelist.net/anime/41762",
+    "score": 2,
+    "status": 2
+  },
+  {
+    "id": 56735,
+    "title": "Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken",
+    "image": "https://cdn.myanimelist.net/images/anime/1352/158564l.jpg",
+    "url": "https://myanimelist.net/anime/56735",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 47159,
+    "title": "Tensai Ouji no Akaji Kokka Saisei Jutsu",
+    "image": "https://cdn.myanimelist.net/images/anime/1263/119511l.jpg",
+    "url": "https://myanimelist.net/anime/47159",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 47163,
+    "title": "Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita",
+    "image": "https://cdn.myanimelist.net/images/anime/1563/148868l.jpg",
+    "url": "https://myanimelist.net/anime/47163",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 52608,
+    "title": "Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito",
+    "image": "https://cdn.myanimelist.net/images/anime/1071/135255l.jpg",
+    "url": "https://myanimelist.net/anime/52608",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 55265,
+    "title": "Tensei Kizoku, Kantei Skill de Nariagaru",
+    "image": "https://cdn.myanimelist.net/images/anime/1763/139538l.jpg",
+    "url": "https://myanimelist.net/anime/55265",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 59131,
+    "title": "Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season",
+    "image": "https://cdn.myanimelist.net/images/anime/1280/143705l.jpg",
+    "url": "https://myanimelist.net/anime/59131",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 53516,
+    "title": "Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu",
+    "image": "https://cdn.myanimelist.net/images/anime/1580/141243l.jpg",
+    "url": "https://myanimelist.net/anime/53516",
+    "score": 9,
+    "status": 2
+  },
+  {
+    "id": 59095,
+    "title": "Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu 2nd Season",
+    "image": "https://cdn.myanimelist.net/images/anime/1154/149614l.jpg",
+    "url": "https://myanimelist.net/anime/59095",
+    "score": 9,
+    "status": 2
+  },
+  {
+    "id": 61207,
+    "title": "Tensei shitara Dragon no Tamago datta",
+    "image": "https://cdn.myanimelist.net/images/anime/1250/156107l.jpg",
+    "url": "https://myanimelist.net/anime/61207",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 58357,
+    "title": "Tensui no Sakuna-hime",
+    "image": "https://cdn.myanimelist.net/images/anime/1888/143803l.jpg",
+    "url": "https://myanimelist.net/anime/58357",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 60294,
+    "title": "Tensui no Sakuna-hime: Kokorowa Inasaku Nisshi",
+    "image": "https://cdn.myanimelist.net/images/anime/1260/155016l.jpg",
+    "url": "https://myanimelist.net/anime/60294",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 58614,
+    "title": "Teogonia",
+    "image": "https://cdn.myanimelist.net/images/anime/1066/148358l.jpg",
+    "url": "https://myanimelist.net/anime/58614",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 63100,
+    "title": "Tetsunabe no Jan!",
+    "image": "https://cdn.myanimelist.net/images/anime/1452/159112l.jpg",
+    "url": "https://myanimelist.net/anime/63100",
+    "score": 9,
+    "status": 2
+  },
+  {
+    "id": 55911,
+    "title": "The Fable",
+    "image": "https://cdn.myanimelist.net/images/anime/1254/141155l.jpg",
+    "url": "https://myanimelist.net/anime/55911",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 41353,
+    "title": "The God of High School",
+    "image": "https://cdn.myanimelist.net/images/anime/1722/107269l.jpg",
+    "url": "https://myanimelist.net/anime/41353",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 57100,
+    "title": "The New Gate",
+    "image": "https://cdn.myanimelist.net/images/anime/1898/141857l.jpg",
+    "url": "https://myanimelist.net/anime/57100",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 38480,
+    "title": "Toaru Kagaku no Accelerator",
+    "image": "https://cdn.myanimelist.net/images/anime/1160/99995l.jpg",
+    "url": "https://myanimelist.net/anime/38480",
+    "score": 5,
+    "status": 2
+  },
+  {
+    "id": 54431,
+    "title": "Toaru Ossan no VRMMO Katsudouki",
+    "image": "https://cdn.myanimelist.net/images/anime/1233/138531l.jpg",
+    "url": "https://myanimelist.net/anime/54431",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 35589,
+    "title": "Toji no Miko",
+    "image": "https://cdn.myanimelist.net/images/anime/13/89885l.jpg",
+    "url": "https://myanimelist.net/anime/35589",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 54744,
+    "title": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san",
+    "image": "https://cdn.myanimelist.net/images/anime/1596/152806l.jpg",
+    "url": "https://myanimelist.net/anime/54744",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 42249,
+    "title": "Tokyo Revengers",
+    "image": "https://cdn.myanimelist.net/images/anime/1839/122012l.jpg",
+    "url": "https://myanimelist.net/anime/42249",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 53446,
+    "title": "Tondemo Skill de Isekai Hourou Meshi",
+    "image": "https://cdn.myanimelist.net/images/anime/1661/131889l.jpg",
+    "url": "https://myanimelist.net/anime/53446",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 57025,
+    "title": "Tondemo Skill de Isekai Hourou Meshi 2",
+    "image": "https://cdn.myanimelist.net/images/anime/1206/151772l.jpg",
+    "url": "https://myanimelist.net/anime/57025",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 51553,
+    "title": "Tongari Boushi no Atelier",
+    "image": "https://cdn.myanimelist.net/images/anime/1726/155542l.jpg",
+    "url": "https://myanimelist.net/anime/51553",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 62936,
+    "title": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
+    "image": "https://cdn.myanimelist.net/images/anime/1145/158339l.jpg",
+    "url": "https://myanimelist.net/anime/62936",
+    "score": 9,
+    "status": 2
+  },
+  {
+    "id": 49969,
+    "title": "Tribe Nine",
+    "image": "https://cdn.myanimelist.net/images/anime/1050/118367l.jpg",
+    "url": "https://myanimelist.net/anime/49969",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 56662,
+    "title": "Trillion Game",
+    "image": "https://cdn.myanimelist.net/images/anime/1081/147379l.jpg",
+    "url": "https://myanimelist.net/anime/56662",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 58059,
+    "title": "Tsue to Tsurugi no Wistoria",
+    "image": "https://cdn.myanimelist.net/images/anime/1281/144104l.jpg",
+    "url": "https://myanimelist.net/anime/58059",
+    "score": 9,
+    "status": 2
+  },
+  {
+    "id": 59983,
+    "title": "Tsue to Tsurugi no Wistoria Season 2",
+    "image": "https://cdn.myanimelist.net/images/anime/1190/155788l.jpg",
+    "url": "https://myanimelist.net/anime/59983",
+    "score": 9,
+    "status": 2
+  },
+  {
+    "id": 60523,
+    "title": "Tsuihousha Shokudou e Youkoso!",
+    "image": "https://cdn.myanimelist.net/images/anime/1313/149355l.jpg",
+    "url": "https://myanimelist.net/anime/60523",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 43523,
+    "title": "Tsuki ga Michibiku Isekai Douchuu",
+    "image": "https://cdn.myanimelist.net/images/anime/1950/116474l.jpg",
+    "url": "https://myanimelist.net/anime/43523",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 49889,
+    "title": "Tsuki ga Michibiku Isekai Douchuu 2nd Season",
+    "image": "https://cdn.myanimelist.net/images/anime/1794/142621l.jpg",
+    "url": "https://myanimelist.net/anime/49889",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 54726,
+    "title": "Tsuma, Shougakusei ni Naru.",
+    "image": "https://cdn.myanimelist.net/images/anime/1752/145548l.jpg",
+    "url": "https://myanimelist.net/anime/54726",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 53397,
+    "title": "Tsuyokute New Saga",
+    "image": "https://cdn.myanimelist.net/images/anime/1170/147753l.jpg",
+    "url": "https://myanimelist.net/anime/53397",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 53379,
+    "title": "Uchi no Kaisha no Chiisai Senpai no Hanashi",
+    "image": "https://cdn.myanimelist.net/images/anime/1984/136274l.jpg",
+    "url": "https://myanimelist.net/anime/53379",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 39324,
+    "title": "Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai.",
+    "image": "https://cdn.myanimelist.net/images/anime/1568/101203l.jpg",
+    "url": "https://myanimelist.net/anime/39324",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 58333,
+    "title": "Uji ni wa Monogatari ga Aru",
+    "image": "https://cdn.myanimelist.net/images/anime/1585/145679l.jpg",
+    "url": "https://myanimelist.net/anime/58333",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 54790,
+    "title": "Undead Girl Murder Farce",
+    "image": "https://cdn.myanimelist.net/images/anime/1946/136661l.jpg",
+    "url": "https://myanimelist.net/anime/54790",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 52741,
+    "title": "Undead Unluck",
+    "image": "https://cdn.myanimelist.net/images/anime/1136/138410l.jpg",
+    "url": "https://myanimelist.net/anime/52741",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 53835,
+    "title": "Unnamed Memory",
+    "image": "https://cdn.myanimelist.net/images/anime/1143/142439l.jpg",
+    "url": "https://myanimelist.net/anime/53835",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 61663,
+    "title": "Uruwashi no Yoi no Tsuki",
+    "image": "https://cdn.myanimelist.net/images/anime/1999/154569l.jpg",
+    "url": "https://myanimelist.net/anime/61663",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 21845,
+    "title": "Ushinawareta Mirai wo Motomete",
+    "image": "https://cdn.myanimelist.net/images/anime/1414/112510l.jpg",
+    "url": "https://myanimelist.net/anime/21845",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 29854,
+    "title": "Ushio to Tora (TV)",
+    "image": "https://cdn.myanimelist.net/images/anime/8/74945l.jpg",
+    "url": "https://myanimelist.net/anime/29854",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 63468,
+    "title": "Ushiro no Shoumen Kamui-san",
+    "image": "https://cdn.myanimelist.net/images/anime/1071/158366l.jpg",
+    "url": "https://myanimelist.net/anime/63468",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 41226,
+    "title": "Uzaki-chan wa Asobitai!",
+    "image": "https://cdn.myanimelist.net/images/anime/1540/108292l.jpg",
+    "url": "https://myanimelist.net/anime/41226",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 42962,
+    "title": "Uzaki-chan wa Asobitai! Double",
+    "image": "https://cdn.myanimelist.net/images/anime/1539/128058l.jpg",
+    "url": "https://myanimelist.net/anime/42962",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 53833,
+    "title": "Watashi no Oshi wa Akuyaku Reijou.",
+    "image": "https://cdn.myanimelist.net/images/anime/1531/137711l.jpg",
+    "url": "https://myanimelist.net/anime/53833",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 51552,
+    "title": "Watashi no Shiawase na Kekkon",
+    "image": "https://cdn.myanimelist.net/images/anime/1147/122444l.jpg",
+    "url": "https://myanimelist.net/anime/51552",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 54900,
+    "title": "Wind Breaker",
+    "image": "https://cdn.myanimelist.net/images/anime/1438/141816l.jpg",
+    "url": "https://myanimelist.net/anime/54900",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 41094,
+    "title": "Xian Wang de Richang Shenghuo",
+    "image": "https://cdn.myanimelist.net/images/anime/1925/105508l.jpg",
+    "url": "https://myanimelist.net/anime/41094",
+    "score": 10,
+    "status": 2
+  },
+  {
+    "id": 44069,
+    "title": "Xian Wang de Richang Shenghuo 2",
+    "image": "https://cdn.myanimelist.net/images/anime/1323/119210l.jpg",
+    "url": "https://myanimelist.net/anime/44069",
+    "score": 10,
+    "status": 2
+  },
+  {
+    "id": 50404,
+    "title": "Xian Wang de Richang Shenghuo 3",
+    "image": "https://cdn.myanimelist.net/images/anime/1114/119526l.jpg",
+    "url": "https://myanimelist.net/anime/50404",
+    "score": 10,
+    "status": 2
+  },
+  {
+    "id": 53450,
+    "title": "Xian Wang de Richang Shenghuo 4",
+    "image": "https://cdn.myanimelist.net/images/anime/1443/138753l.jpg",
+    "url": "https://myanimelist.net/anime/53450",
+    "score": 9,
+    "status": 2
+  },
+  {
+    "id": 60560,
+    "title": "Xian Wang de Richang Shenghuo 5",
+    "image": "https://cdn.myanimelist.net/images/anime/1950/157567l.jpg",
+    "url": "https://myanimelist.net/anime/60560",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 50411,
+    "title": "Xiao Mo Tou Baolu La!",
+    "image": "https://cdn.myanimelist.net/images/anime/1034/119535l.jpg",
+    "url": "https://myanimelist.net/anime/50411",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 56960,
+    "title": "Xiehou Ta de Shaonu Shidai",
+    "image": "https://cdn.myanimelist.net/images/anime/1709/157487l.jpg",
+    "url": "https://myanimelist.net/anime/56960",
+    "score": 9,
+    "status": 2
+  },
+  {
+    "id": 28677,
+    "title": "Yamada-kun to 7-nin no Majo",
+    "image": "https://cdn.myanimelist.net/images/anime/2/73700l.jpg",
+    "url": "https://myanimelist.net/anime/28677",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 53126,
+    "title": "Yamada-kun to Lv999 no Koi wo Suru",
+    "image": "https://cdn.myanimelist.net/images/anime/1298/134178l.jpg",
+    "url": "https://myanimelist.net/anime/53126",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 63403,
+    "title": "Yani Neko",
+    "image": "https://cdn.myanimelist.net/images/anime/1281/156496l.jpg",
+    "url": "https://myanimelist.net/anime/63403",
+    "score": 10,
+    "status": 2
+  },
+  {
+    "id": 41093,
+    "title": "Yao Jing Zhong Zhi Shou Ce",
+    "image": "https://cdn.myanimelist.net/images/anime/1895/105493l.jpg",
+    "url": "https://myanimelist.net/anime/41093",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 55150,
+    "title": "Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu",
+    "image": "https://cdn.myanimelist.net/images/anime/1672/148866l.jpg",
+    "url": "https://myanimelist.net/anime/55150",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 59644,
+    "title": "Yasei no Last Boss ga Arawareta!",
+    "image": "https://cdn.myanimelist.net/images/anime/1810/160089l.jpg",
+    "url": "https://myanimelist.net/anime/59644",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 60020,
+    "title": "Yeon-ui Pyeonji",
+    "image": "https://cdn.myanimelist.net/images/anime/1764/152299l.jpg",
+    "url": "https://myanimelist.net/anime/60020",
+    "score": 10,
+    "status": 2
+  },
+  {
+    "id": 62001,
+    "title": "Yomi no Tsugai",
+    "image": "https://cdn.myanimelist.net/images/anime/1171/156397l.jpg",
+    "url": "https://myanimelist.net/anime/62001",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 10216,
+    "title": "Yondemasu yo, Azazel-san. (TV)",
+    "image": "https://cdn.myanimelist.net/images/anime/4/75284l.jpg",
+    "url": "https://myanimelist.net/anime/10216",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 16241,
+    "title": "Yondemasu yo, Azazel-san. Z",
+    "image": "https://cdn.myanimelist.net/images/anime/3/48957l.jpg",
+    "url": "https://myanimelist.net/anime/16241",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 54839,
+    "title": "Yoru no Kurage wa Oyogenai",
+    "image": "https://cdn.myanimelist.net/images/anime/1834/141827l.jpg",
+    "url": "https://myanimelist.net/anime/54839",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 35507,
+    "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
+    "image": "https://cdn.myanimelist.net/images/anime/5/86830l.jpg",
+    "url": "https://myanimelist.net/anime/35507",
+    "score": 10,
+    "status": 2
+  },
+  {
+    "id": 51096,
+    "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season",
+    "image": "https://cdn.myanimelist.net/images/anime/1010/124180l.jpg",
+    "url": "https://myanimelist.net/anime/51096",
+    "score": 9,
+    "status": 2
+  },
+  {
+    "id": 51180,
+    "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season",
+    "image": "https://cdn.myanimelist.net/images/anime/1332/139318l.jpg",
+    "url": "https://myanimelist.net/anime/51180",
+    "score": 9,
+    "status": 2
+  },
+  {
+    "id": 59708,
+    "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
+    "image": "https://cdn.myanimelist.net/images/anime/1176/153626l.jpg",
+    "url": "https://myanimelist.net/anime/59708",
+    "score": 9,
+    "status": 2
+  },
+  {
+    "id": 60444,
+    "title": "Yowayowa Sensei",
+    "image": "https://cdn.myanimelist.net/images/anime/1364/155774l.jpg",
+    "url": "https://myanimelist.net/anime/60444",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 53865,
+    "title": "Yozakura-san Chi no Daisakusen",
+    "image": "https://cdn.myanimelist.net/images/anime/1674/143715l.jpg",
+    "url": "https://myanimelist.net/anime/53865",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 60055,
+    "title": "Yozakura-san Chi no Daisakusen 2nd Season",
+    "image": "https://cdn.myanimelist.net/images/anime/1230/155783l.jpg",
+    "url": "https://myanimelist.net/anime/60055",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 55866,
+    "title": "Yubisaki to Renren",
+    "image": "https://cdn.myanimelist.net/images/anime/1478/140828l.jpg",
+    "url": "https://myanimelist.net/anime/55866",
+    "score": 9,
+    "status": 2
+  },
+  {
+    "id": 53632,
+    "title": "Yumemiru Danshi wa Genjitsushugisha",
+    "image": "https://cdn.myanimelist.net/images/anime/1239/134810l.jpg",
+    "url": "https://myanimelist.net/anime/53632",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 61983,
+    "title": "Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita.",
+    "image": "https://cdn.myanimelist.net/images/anime/1573/152828l.jpg",
+    "url": "https://myanimelist.net/anime/61983",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 61128,
+    "title": "Yuusha Party wo Oidasareta Kiyoubinbou",
+    "image": "https://cdn.myanimelist.net/images/anime/1486/153135l.jpg",
+    "url": "https://myanimelist.net/anime/61128",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 52046,
+    "title": "Yuusha Party wo Tsuihou sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau",
+    "image": "https://cdn.myanimelist.net/images/anime/1084/126652l.jpg",
+    "url": "https://myanimelist.net/anime/52046",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 59424,
+    "title": "Yuusha Party wo Tsuihou sareta Shiromadoushi, S-Rank Boukensha ni Hirowareru: Kono Shiromadoushi ga Kikakugai Sugiru",
+    "image": "https://cdn.myanimelist.net/images/anime/1072/149889l.jpg",
+    "url": "https://myanimelist.net/anime/59424",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 56009,
+    "title": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
+    "image": "https://cdn.myanimelist.net/images/anime/1062/151911l.jpg",
+    "url": "https://myanimelist.net/anime/56009",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 37268,
+    "title": "Z/X: Code Reunion",
+    "image": "https://cdn.myanimelist.net/images/anime/1077/111410l.jpg",
+    "url": "https://myanimelist.net/anime/37268",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 1195,
+    "title": "Zero no Tsukaima",
+    "image": "https://cdn.myanimelist.net/images/anime/8/20680l.jpg",
+    "url": "https://myanimelist.net/anime/1195",
+    "score": 6,
+    "status": 2
+  },
+  {
+    "id": 14075,
+    "title": "Zetsuen no Tempest",
+    "image": "https://cdn.myanimelist.net/images/anime/7/42453l.jpg",
+    "url": "https://myanimelist.net/anime/14075",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 54112,
+    "title": "Zom 100: Zombie ni Naru made ni Shitai 100 no Koto",
+    "image": "https://cdn.myanimelist.net/images/anime/1384/136408l.jpg",
+    "url": "https://myanimelist.net/anime/54112",
+    "score": 9,
+    "status": 2
+  },
+  {
+    "id": 41915,
+    "title": "Zuihou de Zhaohuan Shi",
+    "image": "https://cdn.myanimelist.net/images/anime/1736/123834l.jpg",
+    "url": "https://myanimelist.net/anime/41915",
+    "score": 8,
+    "status": 2
+  },
+  {
+    "id": 59421,
+    "title": "Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai sareru",
+    "image": "https://cdn.myanimelist.net/images/anime/1518/149900l.jpg",
+    "url": "https://myanimelist.net/anime/59421",
+    "score": 7,
+    "status": 2
+  },
+  {
+    "id": 52034,
+    "title": "[Oshi no Ko]",
+    "image": "https://cdn.myanimelist.net/images/anime/1812/134736l.jpg",
+    "url": "https://myanimelist.net/anime/52034",
+    "score": 9,
+    "status": 2
+  },
+  {
+    "id": 55791,
+    "title": "[Oshi no Ko] 2nd Season",
+    "image": "https://cdn.myanimelist.net/images/anime/1006/143302l.jpg",
+    "url": "https://myanimelist.net/anime/55791",
+    "score": 9,
+    "status": 2
+  },
+  {
+    "id": 60058,
+    "title": "[Oshi no Ko] 3rd Season",
+    "image": "https://cdn.myanimelist.net/images/anime/1979/153329l.jpg",
+    "url": "https://myanimelist.net/anime/60058",
+    "score": 9,
+    "status": 2
+  },
+  {
     "id": 40748,
     "title": "Jujutsu Kaisen",
     "image": "https://cdn.myanimelist.net/images/anime/1171/109222l.jpg",
@@ -3001,7 +5929,7 @@
   },
   {
     "id": 59897,
-    "title": "Kobayashi-san Chi no Maid Dragon: Samishigariya no Ryuu",
+    "title": "Kobayashi-san Chi no Maid Dragon Movie: Samishigariya no Ryuu",
     "image": "https://cdn.myanimelist.net/images/anime/1134/148744l.jpg",
     "url": "https://myanimelist.net/anime/59897",
     "score": 0,

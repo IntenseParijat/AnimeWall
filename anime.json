@@ -64,14 +64,6 @@
     "status": 1
   },
   {
-    "id": 52480,
-    "title": "Tantei wa Mou, Shindeiru. Season 2",
-    "image": "https://cdn.myanimelist.net/images/anime/1414/160406l.jpg",
-    "url": "https://myanimelist.net/anime/52480",
-    "score": 0,
-    "status": 1
-  },
-  {
     "id": 56701,
     "title": "Watashi no Shiawase na Kekkon 2nd Season",
     "image": "https://cdn.myanimelist.net/images/anime/1946/146770l.jpg",
@@ -4628,7 +4620,7 @@
     "title": "Tantei wa Mou, Shindeiru.",
     "image": "https://cdn.myanimelist.net/images/anime/1843/115815l.jpg",
     "url": "https://myanimelist.net/anime/46471",
-    "score": 9,
+    "score": 7,
     "status": 2
   },
   {
@@ -5613,6 +5605,14 @@
     "image": "https://cdn.myanimelist.net/images/anime/1158/158138l.jpg",
     "url": "https://myanimelist.net/anime/63489",
     "score": 4,
+    "status": 4
+  },
+  {
+    "id": 52480,
+    "title": "Tantei wa Mou, Shindeiru. Season 2",
+    "image": "https://cdn.myanimelist.net/images/anime/1414/160406l.jpg",
+    "url": "https://myanimelist.net/anime/52480",
+    "score": 5,
     "status": 4
   },
   {

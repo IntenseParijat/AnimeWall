@@ -80,6 +80,30 @@
     "status": 2
   },
   {
+    "id": 52034,
+    "title": "[Oshi no Ko]",
+    "image": "https://cdn.myanimelist.net/images/anime/1812/134736l.jpg",
+    "url": "https://myanimelist.net/anime/52034",
+    "score": 9,
+    "status": 2
+  },
+  {
+    "id": 55791,
+    "title": "[Oshi no Ko] 2nd Season",
+    "image": "https://cdn.myanimelist.net/images/anime/1006/143302l.jpg",
+    "url": "https://myanimelist.net/anime/55791",
+    "score": 9,
+    "status": 2
+  },
+  {
+    "id": 60058,
+    "title": "[Oshi no Ko] 3rd Season",
+    "image": "https://cdn.myanimelist.net/images/anime/1979/153329l.jpg",
+    "url": "https://myanimelist.net/anime/60058",
+    "score": 9,
+    "status": 2
+  },
+  {
     "id": 41380,
     "title": "100-man no Inochi no Ue ni Ore wa Tatteiru",
     "image": "https://cdn.myanimelist.net/images/anime/1506/117717l.jpg",
@@ -5384,30 +5408,6 @@
     "status": 2
   },
   {
-    "id": 52034,
-    "title": "[Oshi no Ko]",
-    "image": "https://cdn.myanimelist.net/images/anime/1812/134736l.jpg",
-    "url": "https://myanimelist.net/anime/52034",
-    "score": 9,
-    "status": 2
-  },
-  {
-    "id": 55791,
-    "title": "[Oshi no Ko] 2nd Season",
-    "image": "https://cdn.myanimelist.net/images/anime/1006/143302l.jpg",
-    "url": "https://myanimelist.net/anime/55791",
-    "score": 9,
-    "status": 2
-  },
-  {
-    "id": 60058,
-    "title": "[Oshi no Ko] 3rd Season",
-    "image": "https://cdn.myanimelist.net/images/anime/1979/153329l.jpg",
-    "url": "https://myanimelist.net/anime/60058",
-    "score": 9,
-    "status": 2
-  },
-  {
     "id": 40748,
     "title": "Jujutsu Kaisen",
     "image": "https://cdn.myanimelist.net/images/anime/1171/109222l.jpg",
@@ -5662,6 +5662,14 @@
     "url": "https://myanimelist.net/anime/58502",
     "score": 4,
     "status": 4
+  },
+  {
+    "id": 63794,
+    "title": "[Oshi no Ko] 4th Season",
+    "image": "https://cdn.myanimelist.net/images/anime/1052/159561l.jpg",
+    "url": "https://myanimelist.net/anime/63794",
+    "score": 0,
+    "status": 6
   },
   {
     "id": 30123,
@@ -6308,14 +6316,6 @@
     "title": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku 2nd Season",
     "image": "https://cdn.myanimelist.net/images/anime/1428/156326l.jpg",
     "url": "https://myanimelist.net/anime/63820",
-    "score": 0,
-    "status": 6
-  },
-  {
-    "id": 63794,
-    "title": "[Oshi no Ko] 4th Season",
-    "image": "https://cdn.myanimelist.net/images/anime/1052/159561l.jpg",
-    "url": "https://myanimelist.net/anime/63794",
     "score": 0,
     "status": 6
   }
